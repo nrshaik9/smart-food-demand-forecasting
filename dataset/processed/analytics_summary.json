@@ -1,0 +1,1263 @@
+{
+  "total_records": 1097,
+  "start_date": "2024-01-01",
+  "end_date": "2024-02-10",
+  "total_volume": 319768,
+  "avg_daily_volume": 7799.2,
+  "dishes": [
+    {
+      "menu_item_name": "Teh Tarik",
+      "total_sold": 65932,
+      "avg_sold": 578.35,
+      "avg_price": 3.3,
+      "unit_cost": 0.9,
+      "records": 114,
+      "margin": 2.4,
+      "margin_pct": 72.76
+    },
+    {
+      "menu_item_name": "Kaya Toast Set",
+      "total_sold": 55471,
+      "avg_sold": 462.26,
+      "avg_price": 9.84,
+      "unit_cost": 2.8,
+      "records": 120,
+      "margin": 7.04,
+      "margin_pct": 71.53
+    },
+    {
+      "menu_item_name": "Cendol",
+      "total_sold": 34657,
+      "avg_sold": 262.55,
+      "avg_price": 7.93,
+      "unit_cost": 2.0,
+      "records": 132,
+      "margin": 5.93,
+      "margin_pct": 74.78
+    },
+    {
+      "menu_item_name": "Roti Canai",
+      "total_sold": 33449,
+      "avg_sold": 434.4,
+      "avg_price": 2.38,
+      "unit_cost": 0.8,
+      "records": 77,
+      "margin": 1.58,
+      "margin_pct": 66.43
+    },
+    {
+      "menu_item_name": "Iced Lemon Tea",
+      "total_sold": 28961,
+      "avg_sold": 371.29,
+      "avg_price": 6.25,
+      "unit_cost": 1.2,
+      "records": 78,
+      "margin": 5.05,
+      "margin_pct": 80.79
+    },
+    {
+      "menu_item_name": "Nasi Lemak",
+      "total_sold": 27707,
+      "avg_sold": 369.43,
+      "avg_price": 11.47,
+      "unit_cost": 2.5,
+      "records": 75,
+      "margin": 8.97,
+      "margin_pct": 78.2
+    },
+    {
+      "menu_item_name": "Chicken Chop",
+      "total_sold": 12924,
+      "avg_sold": 170.05,
+      "avg_price": 46.95,
+      "unit_cost": 8.0,
+      "records": 76,
+      "margin": 38.95,
+      "margin_pct": 82.96
+    },
+    {
+      "menu_item_name": "Spaghetti Carbonara",
+      "total_sold": 10978,
+      "avg_sold": 133.88,
+      "avg_price": 54.27,
+      "unit_cost": 9.0,
+      "records": 82,
+      "margin": 45.27,
+      "margin_pct": 83.42
+    },
+    {
+      "menu_item_name": "Beef Rendang",
+      "total_sold": 10920,
+      "avg_sold": 126.98,
+      "avg_price": 47.94,
+      "unit_cost": 9.0,
+      "records": 86,
+      "margin": 38.94,
+      "margin_pct": 81.23
+    },
+    {
+      "menu_item_name": "Tandoori Chicken",
+      "total_sold": 9981,
+      "avg_sold": 131.33,
+      "avg_price": 24.92,
+      "unit_cost": 7.0,
+      "records": 76,
+      "margin": 17.92,
+      "margin_pct": 71.91
+    },
+    {
+      "menu_item_name": "Chicken Rice",
+      "total_sold": 9577,
+      "avg_sold": 245.56,
+      "avg_price": 15.86,
+      "unit_cost": 4.0,
+      "records": 39,
+      "margin": 11.86,
+      "margin_pct": 74.78
+    },
+    {
+      "menu_item_name": "Char Kway Teow",
+      "total_sold": 6890,
+      "avg_sold": 181.32,
+      "avg_price": 20.49,
+      "unit_cost": 5.0,
+      "records": 38,
+      "margin": 15.49,
+      "margin_pct": 75.6
+    },
+    {
+      "menu_item_name": "Mushroom Soup",
+      "total_sold": 6729,
+      "avg_sold": 88.54,
+      "avg_price": 21.8,
+      "unit_cost": 3.5,
+      "records": 76,
+      "margin": 18.3,
+      "margin_pct": 83.94
+    },
+    {
+      "menu_item_name": "Laksa",
+      "total_sold": 5592,
+      "avg_sold": 199.71,
+      "avg_price": 14.73,
+      "unit_cost": 4.5,
+      "records": 28,
+      "margin": 10.23,
+      "margin_pct": 69.45
+    }
+  ],
+  "daily_trends": [
+    {
+      "date_str": "2024-01-01",
+      "quantity_sold": 8479
+    },
+    {
+      "date_str": "2024-01-02",
+      "quantity_sold": 7647
+    },
+    {
+      "date_str": "2024-01-03",
+      "quantity_sold": 4172
+    },
+    {
+      "date_str": "2024-01-04",
+      "quantity_sold": 7592
+    },
+    {
+      "date_str": "2024-01-05",
+      "quantity_sold": 6712
+    },
+    {
+      "date_str": "2024-01-06",
+      "quantity_sold": 9503
+    },
+    {
+      "date_str": "2024-01-07",
+      "quantity_sold": 10455
+    },
+    {
+      "date_str": "2024-01-08",
+      "quantity_sold": 5889
+    },
+    {
+      "date_str": "2024-01-09",
+      "quantity_sold": 4134
+    },
+    {
+      "date_str": "2024-01-10",
+      "quantity_sold": 7790
+    },
+    {
+      "date_str": "2024-01-11",
+      "quantity_sold": 8302
+    },
+    {
+      "date_str": "2024-01-12",
+      "quantity_sold": 4558
+    },
+    {
+      "date_str": "2024-01-13",
+      "quantity_sold": 9867
+    },
+    {
+      "date_str": "2024-01-14",
+      "quantity_sold": 8658
+    },
+    {
+      "date_str": "2024-01-15",
+      "quantity_sold": 13716
+    },
+    {
+      "date_str": "2024-01-16",
+      "quantity_sold": 10409
+    },
+    {
+      "date_str": "2024-01-17",
+      "quantity_sold": 4057
+    },
+    {
+      "date_str": "2024-01-18",
+      "quantity_sold": 6921
+    },
+    {
+      "date_str": "2024-01-19",
+      "quantity_sold": 10459
+    },
+    {
+      "date_str": "2024-01-20",
+      "quantity_sold": 9970
+    },
+    {
+      "date_str": "2024-01-21",
+      "quantity_sold": 7892
+    },
+    {
+      "date_str": "2024-01-22",
+      "quantity_sold": 5676
+    },
+    {
+      "date_str": "2024-01-23",
+      "quantity_sold": 4043
+    },
+    {
+      "date_str": "2024-01-24",
+      "quantity_sold": 5603
+    },
+    {
+      "date_str": "2024-01-25",
+      "quantity_sold": 8962
+    },
+    {
+      "date_str": "2024-01-26",
+      "quantity_sold": 7159
+    },
+    {
+      "date_str": "2024-01-27",
+      "quantity_sold": 6664
+    },
+    {
+      "date_str": "2024-01-28",
+      "quantity_sold": 10841
+    },
+    {
+      "date_str": "2024-01-29",
+      "quantity_sold": 5693
+    },
+    {
+      "date_str": "2024-01-30",
+      "quantity_sold": 7039
+    },
+    {
+      "date_str": "2024-01-31",
+      "quantity_sold": 8078
+    },
+    {
+      "date_str": "2024-02-01",
+      "quantity_sold": 11303
+    },
+    {
+      "date_str": "2024-02-02",
+      "quantity_sold": 4328
+    },
+    {
+      "date_str": "2024-02-03",
+      "quantity_sold": 10671
+    },
+    {
+      "date_str": "2024-02-04",
+      "quantity_sold": 9978
+    },
+    {
+      "date_str": "2024-02-05",
+      "quantity_sold": 7668
+    },
+    {
+      "date_str": "2024-02-06",
+      "quantity_sold": 6792
+    },
+    {
+      "date_str": "2024-02-07",
+      "quantity_sold": 7009
+    },
+    {
+      "date_str": "2024-02-08",
+      "quantity_sold": 9001
+    },
+    {
+      "date_str": "2024-02-09",
+      "quantity_sold": 4234
+    },
+    {
+      "date_str": "2024-02-10",
+      "quantity_sold": 11844
+    }
+  ],
+  "meal_distribution": [
+    {
+      "meal_type": "Breakfast",
+      "quantity_sold": 124579
+    },
+    {
+      "meal_type": "Dinner",
+      "quantity_sold": 92945
+    },
+    {
+      "meal_type": "Lunch",
+      "quantity_sold": 102244
+    }
+  ],
+  "restaurant_distribution": [
+    {
+      "restaurant_type": "Cafe",
+      "quantity_sold": 45394
+    },
+    {
+      "restaurant_type": "Casual Dining",
+      "quantity_sold": 72528
+    },
+    {
+      "restaurant_type": "Fine Dining",
+      "quantity_sold": 43781
+    },
+    {
+      "restaurant_type": "Food Stall",
+      "quantity_sold": 148864
+    },
+    {
+      "restaurant_type": "Kopitiam",
+      "quantity_sold": 9201
+    }
+  ],
+  "promo_impact": [
+    {
+      "has_promotion": 0,
+      "quantity_sold": 253.37
+    },
+    {
+      "has_promotion": 1,
+      "quantity_sold": 490.97
+    }
+  ],
+  "recent_sales": [
+    {
+      "date": "2024-02-08",
+      "restaurant_id": 48,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Cendol",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "rice flour jelly, coconut milk, palm sugar, red beans",
+      "typical_ingredient_cost": 2.0,
+      "observed_market_price": 5.15,
+      "actual_selling_price": 8.41,
+      "quantity_sold": 408,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-08",
+      "restaurant_id": 49,
+      "restaurant_type": "Kopitiam",
+      "menu_item_name": "Cendol",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "rice flour jelly, coconut milk, palm sugar, red beans",
+      "typical_ingredient_cost": 2.0,
+      "observed_market_price": 5.69,
+      "actual_selling_price": 8.23,
+      "quantity_sold": 162,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-08",
+      "restaurant_id": 50,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Roti Canai",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "flour, ghee, egg, water, curry",
+      "typical_ingredient_cost": 0.8,
+      "observed_market_price": 1.92,
+      "actual_selling_price": 2.63,
+      "quantity_sold": 214,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 2,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Roti Canai",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "flour, ghee, egg, water, curry",
+      "typical_ingredient_cost": 0.8,
+      "observed_market_price": 1.57,
+      "actual_selling_price": 2.19,
+      "quantity_sold": 382,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 3,
+      "restaurant_type": "Cafe",
+      "menu_item_name": "Iced Lemon Tea",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "black tea, lemon, sugar syrup",
+      "typical_ingredient_cost": 1.2,
+      "observed_market_price": 4.67,
+      "actual_selling_price": 4.89,
+      "quantity_sold": 166,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 6,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Spaghetti Carbonara",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "spaghetti, eggs, cheese, beef bacon, black pepper",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 46.39,
+      "actual_selling_price": 75.96,
+      "quantity_sold": 96,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 7,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Spaghetti Carbonara",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "spaghetti, eggs, cheese, beef bacon, black pepper",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 26.28,
+      "actual_selling_price": 48.46,
+      "quantity_sold": 3,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 9,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Teh Tarik",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "black tea, condensed milk, evaporated milk",
+      "typical_ingredient_cost": 0.9,
+      "observed_market_price": 2.66,
+      "actual_selling_price": 4.56,
+      "quantity_sold": 313,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 10,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Nasi Lemak",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "rice, coconut milk, sambal, anchovies, egg, peanuts",
+      "typical_ingredient_cost": 2.5,
+      "observed_market_price": 9.97,
+      "actual_selling_price": 12.59,
+      "quantity_sold": 467,
+      "has_promotion": 1,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 14,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 6.23,
+      "actual_selling_price": 8.25,
+      "quantity_sold": 539,
+      "has_promotion": 0,
+      "special_event": 1,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 18,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Roti Canai",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "flour, ghee, egg, water, curry",
+      "typical_ingredient_cost": 0.8,
+      "observed_market_price": 1.99,
+      "actual_selling_price": 2.29,
+      "quantity_sold": 371,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 18,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Tandoori Chicken",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "chicken, yogurt, tandoori masala, ginger, garlic",
+      "typical_ingredient_cost": 7.0,
+      "observed_market_price": 14.43,
+      "actual_selling_price": 30.04,
+      "quantity_sold": 54,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 23,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Chicken Chop",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "chicken thigh, black pepper sauce, fries, coleslaw",
+      "typical_ingredient_cost": 8.0,
+      "observed_market_price": 44.19,
+      "actual_selling_price": 55.83,
+      "quantity_sold": 197,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 25,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Beef Rendang",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "beef, coconut milk, galangal, lemongrass, spices, chili",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 36.67,
+      "actual_selling_price": 55.31,
+      "quantity_sold": 236,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 26,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Beef Rendang",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "beef, coconut milk, galangal, lemongrass, spices, chili",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 18.88,
+      "actual_selling_price": 34.1,
+      "quantity_sold": 97,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 26,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Beef Rendang",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "beef, coconut milk, galangal, lemongrass, spices, chili",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 15.92,
+      "actual_selling_price": 28.36,
+      "quantity_sold": 186,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 26,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 6.9,
+      "actual_selling_price": 10.95,
+      "quantity_sold": 208,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 26,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 6.0,
+      "actual_selling_price": 9.01,
+      "quantity_sold": 293,
+      "has_promotion": 0,
+      "special_event": 1,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 27,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Tandoori Chicken",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "chicken, yogurt, tandoori masala, ginger, garlic",
+      "typical_ingredient_cost": 7.0,
+      "observed_market_price": 13.82,
+      "actual_selling_price": 27.05,
+      "quantity_sold": 18,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 29,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 6.29,
+      "actual_selling_price": 8.84,
+      "quantity_sold": 226,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 33,
+      "restaurant_type": "Cafe",
+      "menu_item_name": "Chicken Chop",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "chicken thigh, black pepper sauce, fries, coleslaw",
+      "typical_ingredient_cost": 8.0,
+      "observed_market_price": 23.85,
+      "actual_selling_price": 39.45,
+      "quantity_sold": 200,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 37,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Cendol",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "rice flour jelly, coconut milk, palm sugar, red beans",
+      "typical_ingredient_cost": 2.0,
+      "observed_market_price": 3.52,
+      "actual_selling_price": 7.05,
+      "quantity_sold": 88,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 38,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Mushroom Soup",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "mushrooms, cream, onion, garlic, vegetable broth",
+      "typical_ingredient_cost": 3.5,
+      "observed_market_price": 17.04,
+      "actual_selling_price": 27.66,
+      "quantity_sold": 14,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 39,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Beef Rendang",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "beef, coconut milk, galangal, lemongrass, spices, chili",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 26.28,
+      "actual_selling_price": 55.35,
+      "quantity_sold": 14,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-09",
+      "restaurant_id": 42,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Spaghetti Carbonara",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "spaghetti, eggs, cheese, beef bacon, black pepper",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 54.49,
+      "actual_selling_price": 64.95,
+      "quantity_sold": 66,
+      "has_promotion": 1,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 3,
+      "restaurant_type": "Cafe",
+      "menu_item_name": "Beef Rendang",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "beef, coconut milk, galangal, lemongrass, spices, chili",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 29.13,
+      "actual_selling_price": 47.65,
+      "quantity_sold": 21,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 5,
+      "restaurant_type": "Cafe",
+      "menu_item_name": "Spaghetti Carbonara",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "spaghetti, eggs, cheese, beef bacon, black pepper",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 28.52,
+      "actual_selling_price": 47.48,
+      "quantity_sold": 0,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 6,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Mushroom Soup",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "mushrooms, cream, onion, garlic, vegetable broth",
+      "typical_ingredient_cost": 3.5,
+      "observed_market_price": 17.96,
+      "actual_selling_price": 27.17,
+      "quantity_sold": 32,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 7,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Cendol",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "rice flour jelly, coconut milk, palm sugar, red beans",
+      "typical_ingredient_cost": 2.0,
+      "observed_market_price": 6.07,
+      "actual_selling_price": 11.08,
+      "quantity_sold": 228,
+      "has_promotion": 0,
+      "special_event": 1,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 8,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Chicken Chop",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "chicken thigh, black pepper sauce, fries, coleslaw",
+      "typical_ingredient_cost": 8.0,
+      "observed_market_price": 23.57,
+      "actual_selling_price": 47.01,
+      "quantity_sold": 0,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 8,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 8.55,
+      "actual_selling_price": 10.83,
+      "quantity_sold": 555,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 9,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Beef Rendang",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "beef, coconut milk, galangal, lemongrass, spices, chili",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 23.57,
+      "actual_selling_price": 28.92,
+      "quantity_sold": 249,
+      "has_promotion": 1,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 14,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Teh Tarik",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "black tea, condensed milk, evaporated milk",
+      "typical_ingredient_cost": 0.9,
+      "observed_market_price": 1.86,
+      "actual_selling_price": 3.01,
+      "quantity_sold": 741,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 16,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Tandoori Chicken",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "chicken, yogurt, tandoori masala, ginger, garlic",
+      "typical_ingredient_cost": 7.0,
+      "observed_market_price": 13.98,
+      "actual_selling_price": 15.89,
+      "quantity_sold": 280,
+      "has_promotion": 1,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 17,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Teh Tarik",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "black tea, condensed milk, evaporated milk",
+      "typical_ingredient_cost": 0.9,
+      "observed_market_price": 1.78,
+      "actual_selling_price": 2.83,
+      "quantity_sold": 617,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 19,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Char Kway Teow",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",
+      "typical_ingredient_cost": 5.0,
+      "observed_market_price": 17.23,
+      "actual_selling_price": 23.9,
+      "quantity_sold": 174,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 21,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Iced Lemon Tea",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "black tea, lemon, sugar syrup",
+      "typical_ingredient_cost": 1.2,
+      "observed_market_price": 3.67,
+      "actual_selling_price": 4.78,
+      "quantity_sold": 418,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 21,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 9.41,
+      "actual_selling_price": 10.87,
+      "quantity_sold": 459,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 22,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Roti Canai",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "flour, ghee, egg, water, curry",
+      "typical_ingredient_cost": 0.8,
+      "observed_market_price": 1.55,
+      "actual_selling_price": 2.54,
+      "quantity_sold": 743,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 22,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Tandoori Chicken",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "chicken, yogurt, tandoori masala, ginger, garlic",
+      "typical_ingredient_cost": 7.0,
+      "observed_market_price": 15.26,
+      "actual_selling_price": 26.21,
+      "quantity_sold": 109,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 25,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Iced Lemon Tea",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "black tea, lemon, sugar syrup",
+      "typical_ingredient_cost": 1.2,
+      "observed_market_price": 6.31,
+      "actual_selling_price": 7.07,
+      "quantity_sold": 509,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 27,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Tandoori Chicken",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "chicken, yogurt, tandoori masala, ginger, garlic",
+      "typical_ingredient_cost": 7.0,
+      "observed_market_price": 15.48,
+      "actual_selling_price": 26.99,
+      "quantity_sold": 145,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 28,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Beef Rendang",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "beef, coconut milk, galangal, lemongrass, spices, chili",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 40.59,
+      "actual_selling_price": 56.19,
+      "quantity_sold": 363,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 28,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Nasi Lemak",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "rice, coconut milk, sambal, anchovies, egg, peanuts",
+      "typical_ingredient_cost": 2.5,
+      "observed_market_price": 14.65,
+      "actual_selling_price": 17.61,
+      "quantity_sold": 345,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 29,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Cendol",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "rice flour jelly, coconut milk, palm sugar, red beans",
+      "typical_ingredient_cost": 2.0,
+      "observed_market_price": 3.96,
+      "actual_selling_price": 5.4,
+      "quantity_sold": 314,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 31,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Teh Tarik",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "black tea, condensed milk, evaporated milk",
+      "typical_ingredient_cost": 0.9,
+      "observed_market_price": 2.21,
+      "actual_selling_price": 2.48,
+      "quantity_sold": 727,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 32,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Spaghetti Carbonara",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "spaghetti, eggs, cheese, beef bacon, black pepper",
+      "typical_ingredient_cost": 9.0,
+      "observed_market_price": 36.52,
+      "actual_selling_price": 48.23,
+      "quantity_sold": 350,
+      "has_promotion": 1,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 33,
+      "restaurant_type": "Cafe",
+      "menu_item_name": "Mushroom Soup",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "mushrooms, cream, onion, garlic, vegetable broth",
+      "typical_ingredient_cost": 3.5,
+      "observed_market_price": 12.96,
+      "actual_selling_price": 12.98,
+      "quantity_sold": 61,
+      "has_promotion": 1,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 35,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Cendol",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "rice flour jelly, coconut milk, palm sugar, red beans",
+      "typical_ingredient_cost": 2.0,
+      "observed_market_price": 4.54,
+      "actual_selling_price": 7.08,
+      "quantity_sold": 209,
+      "has_promotion": 0,
+      "special_event": 1,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 36,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Roti Canai",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "flour, ghee, egg, water, curry",
+      "typical_ingredient_cost": 0.8,
+      "observed_market_price": 1.99,
+      "actual_selling_price": 1.9,
+      "quantity_sold": 824,
+      "has_promotion": 1,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 36,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Roti Canai",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "flour, ghee, egg, water, curry",
+      "typical_ingredient_cost": 0.8,
+      "observed_market_price": 1.85,
+      "actual_selling_price": 2.54,
+      "quantity_sold": 307,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 38,
+      "restaurant_type": "Fine Dining",
+      "menu_item_name": "Iced Lemon Tea",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "black tea, lemon, sugar syrup",
+      "typical_ingredient_cost": 1.2,
+      "observed_market_price": 6.45,
+      "actual_selling_price": 7.73,
+      "quantity_sold": 370,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 39,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Mushroom Soup",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "mushrooms, cream, onion, garlic, vegetable broth",
+      "typical_ingredient_cost": 3.5,
+      "observed_market_price": 9.49,
+      "actual_selling_price": 19.66,
+      "quantity_sold": 171,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 40,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Teh Tarik",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "black tea, condensed milk, evaporated milk",
+      "typical_ingredient_cost": 0.9,
+      "observed_market_price": 2.13,
+      "actual_selling_price": 2.87,
+      "quantity_sold": 670,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 41,
+      "restaurant_type": "Cafe",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 10.18,
+      "actual_selling_price": 10.96,
+      "quantity_sold": 448,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 41,
+      "restaurant_type": "Cafe",
+      "menu_item_name": "Mushroom Soup",
+      "meal_type": "Lunch",
+      "key_ingredients_tags": "mushrooms, cream, onion, garlic, vegetable broth",
+      "typical_ingredient_cost": 3.5,
+      "observed_market_price": 12.2,
+      "actual_selling_price": 16.59,
+      "quantity_sold": 97,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 43,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 8.09,
+      "actual_selling_price": 13.98,
+      "quantity_sold": 528,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Rainy"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 43,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Mushroom Soup",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "mushrooms, cream, onion, garlic, vegetable broth",
+      "typical_ingredient_cost": 3.5,
+      "observed_market_price": 10.01,
+      "actual_selling_price": 12.95,
+      "quantity_sold": 129,
+      "has_promotion": 1,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 46,
+      "restaurant_type": "Casual Dining",
+      "menu_item_name": "Chicken Chop",
+      "meal_type": "Dinner",
+      "key_ingredients_tags": "chicken thigh, black pepper sauce, fries, coleslaw",
+      "typical_ingredient_cost": 8.0,
+      "observed_market_price": 28.12,
+      "actual_selling_price": 50.28,
+      "quantity_sold": 106,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Sunny"
+    },
+    {
+      "date": "2024-02-10",
+      "restaurant_id": 47,
+      "restaurant_type": "Food Stall",
+      "menu_item_name": "Kaya Toast Set",
+      "meal_type": "Breakfast",
+      "key_ingredients_tags": "white bread, kaya, butter, soft-boiled eggs",
+      "typical_ingredient_cost": 2.8,
+      "observed_market_price": 6.67,
+      "actual_selling_price": 7.34,
+      "quantity_sold": 545,
+      "has_promotion": 0,
+      "special_event": 0,
+      "weather_condition": "Cloudy"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "Cendol": {
+    "name": "Cendol",
+    "ingredients": [
+      "rice flour jelly",
+      "coconut milk",
+      "palm sugar",
+      "red beans"
+    ],
+    "typical_cost": 2.0,
+    "market_price": 5.35,
+    "avg_selling_price": 7.93,
+    "avg_quantity_sold": 262.6,
+    "min_quantity": 0,
+    "max_quantity": 635,
+    "common_meal_type": "Dinner"
+  },
+  "Kaya Toast Set": {
+    "name": "Kaya Toast Set",
+    "ingredients": [
+      "white bread",
+      "kaya",
+      "butter",
+      "soft-boiled eggs"
+    ],
+    "typical_cost": 2.8,
+    "market_price": 7.48,
+    "avg_selling_price": 9.84,
+    "avg_quantity_sold": 462.3,
+    "min_quantity": 122,
+    "max_quantity": 1068,
+    "common_meal_type": "Breakfast"
+  },
+  "Chicken Chop": {
+    "name": "Chicken Chop",
+    "ingredients": [
+      "chicken thigh",
+      "black pepper sauce",
+      "fries",
+      "coleslaw"
+    ],
+    "typical_cost": 8.0,
+    "market_price": 31.73,
+    "avg_selling_price": 46.95,
+    "avg_quantity_sold": 170.1,
+    "min_quantity": 0,
+    "max_quantity": 498,
+    "common_meal_type": "Lunch"
+  },
+  "Spaghetti Carbonara": {
+    "name": "Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "eggs",
+      "cheese",
+      "beef bacon",
+      "black pepper"
+    ],
+    "typical_cost": 9.0,
+    "market_price": 35.4,
+    "avg_selling_price": 54.27,
+    "avg_quantity_sold": 133.9,
+    "min_quantity": 0,
+    "max_quantity": 350,
+    "common_meal_type": "Lunch"
+  },
+  "Teh Tarik": {
+    "name": "Teh Tarik",
+    "ingredients": [
+      "black tea",
+      "condensed milk",
+      "evaporated milk"
+    ],
+    "typical_cost": 0.9,
+    "market_price": 2.47,
+    "avg_selling_price": 3.3,
+    "avg_quantity_sold": 578.4,
+    "min_quantity": 152,
+    "max_quantity": 1545,
+    "common_meal_type": "Dinner"
+  },
+  "Iced Lemon Tea": {
+    "name": "Iced Lemon Tea",
+    "ingredients": [
+      "black tea",
+      "lemon",
+      "sugar syrup"
+    ],
+    "typical_cost": 1.2,
+    "market_price": 4.71,
+    "avg_selling_price": 6.25,
+    "avg_quantity_sold": 371.3,
+    "min_quantity": 0,
+    "max_quantity": 921,
+    "common_meal_type": "Lunch"
+  },
+  "Chicken Rice": {
+    "name": "Chicken Rice",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "ginger",
+      "garlic",
+      "chili sauce",
+      "cucumber"
+    ],
+    "typical_cost": 4.0,
+    "market_price": 10.41,
+    "avg_selling_price": 15.86,
+    "avg_quantity_sold": 245.6,
+    "min_quantity": 0,
+    "max_quantity": 526,
+    "common_meal_type": "Lunch"
+  },
+  "Char Kway Teow": {
+    "name": "Char Kway Teow",
+    "ingredients": [
+      "flat rice noodles",
+      "prawns",
+      "cockles",
+      "bean sprouts",
+      "chives",
+      "soy sauce"
+    ],
+    "typical_cost": 5.0,
+    "market_price": 12.75,
+    "avg_selling_price": 20.49,
+    "avg_quantity_sold": 181.3,
+    "min_quantity": 0,
+    "max_quantity": 421,
+    "common_meal_type": "Lunch"
+  },
+  "Nasi Lemak": {
+    "name": "Nasi Lemak",
+    "ingredients": [
+      "rice",
+      "coconut milk",
+      "sambal",
+      "anchovies",
+      "egg",
+      "peanuts"
+    ],
+    "typical_cost": 2.5,
+    "market_price": 9.31,
+    "avg_selling_price": 11.47,
+    "avg_quantity_sold": 369.4,
+    "min_quantity": 89,
+    "max_quantity": 714,
+    "common_meal_type": "Lunch"
+  },
+  "Tandoori Chicken": {
+    "name": "Tandoori Chicken",
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "tandoori masala",
+      "ginger",
+      "garlic"
+    ],
+    "typical_cost": 7.0,
+    "market_price": 15.64,
+    "avg_selling_price": 24.92,
+    "avg_quantity_sold": 131.3,
+    "min_quantity": 0,
+    "max_quantity": 410,
+    "common_meal_type": "Dinner"
+  },
+  "Roti Canai": {
+    "name": "Roti Canai",
+    "ingredients": [
+      "flour",
+      "ghee",
+      "egg",
+      "water",
+      "curry"
+    ],
+    "typical_cost": 0.8,
+    "market_price": 1.83,
+    "avg_selling_price": 2.38,
+    "avg_quantity_sold": 434.4,
+    "min_quantity": 85,
+    "max_quantity": 905,
+    "common_meal_type": "Breakfast"
+  },
+  "Beef Rendang": {
+    "name": "Beef Rendang",
+    "ingredients": [
+      "beef",
+      "coconut milk",
+      "galangal",
+      "lemongrass",
+      "spices",
+      "chili"
+    ],
+    "typical_cost": 9.0,
+    "market_price": 31.62,
+    "avg_selling_price": 47.94,
+    "avg_quantity_sold": 127.0,
+    "min_quantity": 0,
+    "max_quantity": 408,
+    "common_meal_type": "Dinner"
+  },
+  "Mushroom Soup": {
+    "name": "Mushroom Soup",
+    "ingredients": [
+      "mushrooms",
+      "cream",
+      "onion",
+      "garlic",
+      "vegetable broth"
+    ],
+    "typical_cost": 3.5,
+    "market_price": 13.77,
+    "avg_selling_price": 21.8,
+    "avg_quantity_sold": 88.5,
+    "min_quantity": 0,
+    "max_quantity": 312,
+    "common_meal_type": "Dinner"
+  },
+  "Laksa": {
+    "name": "Laksa",
+    "ingredients": [
+      "rice noodles",
+      "fish broth",
+      "tamarind",
+      "shrimp paste",
+      "cucumber",
+      "mint"
+    ],
+    "typical_cost": 4.5,
+    "market_price": 10.74,
+    "avg_selling_price": 14.73,
+    "avg_quantity_sold": 199.7,
+    "min_quantity": 4,
+    "max_quantity": 414,
+    "common_meal_type": "Lunch"
+  }
+}

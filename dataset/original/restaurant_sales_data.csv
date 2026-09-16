@@ -1,0 +1,1098 @@
+date,restaurant_id,restaurant_type,menu_item_name,meal_type,key_ingredients_tags,typical_ingredient_cost,observed_market_price,actual_selling_price,quantity_sold,has_promotion,special_event,weather_condition
+1/1/2024,11,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.59,12.48,361,FALSE,FALSE,Sunny
+1/1/2024,7,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,26.64,60.46,105,FALSE,FALSE,Sunny
+1/1/2024,23,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,49.42,80.15,36,FALSE,FALSE,Rainy
+1/1/2024,22,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,2.04,2.48,503,FALSE,FALSE,Sunny
+1/1/2024,32,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,40.3,55.54,262,FALSE,FALSE,Rainy
+1/1/2024,1,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.8,6.72,409,FALSE,FALSE,Sunny
+1/1/2024,41,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,31.79,49.14,76,FALSE,FALSE,Cloudy
+1/1/2024,29,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,11.05,16.9,236,FALSE,FALSE,Cloudy
+1/1/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.58,27.2,176,FALSE,FALSE,Cloudy
+1/1/2024,3,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,34.64,36.95,237,FALSE,FALSE,Rainy
+1/1/2024,1,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.1,9.71,347,FALSE,FALSE,Rainy
+1/1/2024,46,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,28.2,39.31,270,FALSE,FALSE,Cloudy
+1/1/2024,17,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.39,5.36,278,FALSE,FALSE,Cloudy
+1/1/2024,2,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.9,1.81,847,TRUE,FALSE,Sunny
+1/1/2024,29,Food Stall,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,9.19,12.15,344,FALSE,FALSE,Cloudy
+1/1/2024,30,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,3.23,3.54,412,FALSE,FALSE,Cloudy
+1/1/2024,3,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,4.89,5.14,714,FALSE,FALSE,Sunny
+1/1/2024,30,Cafe,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,4.67,3.45,649,TRUE,FALSE,Sunny
+1/1/2024,40,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.44,8.18,625,FALSE,FALSE,Sunny
+1/1/2024,28,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,11.92,16.75,315,FALSE,FALSE,Sunny
+1/1/2024,49,Kopitiam,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.38,8.2,651,FALSE,FALSE,Rainy
+1/1/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.68,14.6,410,TRUE,FALSE,Cloudy
+1/1/2024,5,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12.68,19.43,73,FALSE,TRUE,Cloudy
+1/1/2024,42,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,40.64,56.82,143,FALSE,FALSE,Sunny
+1/2/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.48,31.53,0,FALSE,FALSE,Sunny
+1/2/2024,39,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,22.02,47.06,143,FALSE,FALSE,Cloudy
+1/2/2024,19,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.63,11.9,294,FALSE,FALSE,Sunny
+1/2/2024,44,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.7,9.24,356,FALSE,FALSE,Rainy
+1/2/2024,20,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.45,11.22,172,FALSE,FALSE,Rainy
+1/2/2024,40,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,22.08,33.39,1,FALSE,FALSE,Sunny
+1/2/2024,3,Cafe,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,28.43,23.57,236,TRUE,FALSE,Cloudy
+1/2/2024,19,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.51,12.94,389,FALSE,FALSE,Cloudy
+1/2/2024,47,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.81,7.02,190,FALSE,FALSE,Sunny
+1/2/2024,15,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.61,7.35,186,FALSE,FALSE,Rainy
+1/2/2024,6,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.08,29.28,30,FALSE,FALSE,Sunny
+1/2/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,2.09,2.06,711,TRUE,FALSE,Sunny
+1/2/2024,42,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,13.47,10.89,238,TRUE,FALSE,Sunny
+1/2/2024,3,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12.49,20.13,20,FALSE,FALSE,Sunny
+1/2/2024,13,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.55,7.91,350,FALSE,FALSE,Sunny
+1/2/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.88,2.2,301,FALSE,FALSE,Sunny
+1/2/2024,42,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,51.38,66.88,126,FALSE,FALSE,Cloudy
+1/2/2024,3,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,33.81,41.11,12,FALSE,FALSE,Sunny
+1/2/2024,33,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.81,3.16,385,FALSE,FALSE,Cloudy
+1/2/2024,44,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.23,5.63,353,FALSE,FALSE,Cloudy
+1/2/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.36,13.38,318,TRUE,FALSE,Sunny
+1/2/2024,8,Casual Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.52,20.21,88,FALSE,FALSE,Rainy
+1/2/2024,33,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,13.43,17.73,59,FALSE,FALSE,Cloudy
+1/2/2024,41,Cafe,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,4.33,4.87,357,FALSE,FALSE,Sunny
+1/2/2024,14,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.57,9.57,416,FALSE,FALSE,Cloudy
+1/2/2024,6,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,36.95,71.87,94,FALSE,FALSE,Sunny
+1/2/2024,10,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,36.42,60.28,241,FALSE,FALSE,Rainy
+1/2/2024,31,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.84,20.42,73,FALSE,FALSE,Sunny
+1/2/2024,11,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.18,2.46,385,FALSE,FALSE,Cloudy
+1/2/2024,49,Kopitiam,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.7,6.77,220,FALSE,FALSE,Cloudy
+1/2/2024,13,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,6.1,8.55,259,FALSE,FALSE,Cloudy
+1/2/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.26,26.91,0,FALSE,FALSE,Cloudy
+1/2/2024,5,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,7.08,10.74,120,FALSE,FALSE,Sunny
+1/2/2024,2,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,2.13,1.6,524,TRUE,TRUE,Cloudy
+1/3/2024,6,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,45.72,61.65,92,FALSE,FALSE,Sunny
+1/3/2024,38,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,49.12,53.04,148,TRUE,FALSE,Sunny
+1/3/2024,46,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,24.51,53.13,148,FALSE,FALSE,Sunny
+1/3/2024,50,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.74,2.92,239,FALSE,FALSE,Sunny
+1/3/2024,40,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.75,8.38,64,FALSE,FALSE,Sunny
+1/3/2024,11,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,9.08,13.76,263,FALSE,FALSE,Cloudy
+1/3/2024,22,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.62,1.73,673,TRUE,TRUE,Cloudy
+1/3/2024,28,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,12.98,12.19,503,TRUE,FALSE,Sunny
+1/3/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.28,27.15,99,FALSE,FALSE,Cloudy
+1/3/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.38,24.66,181,FALSE,FALSE,Sunny
+1/3/2024,20,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.1,11.45,119,FALSE,FALSE,Cloudy
+1/3/2024,6,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.14,22.46,210,FALSE,FALSE,Sunny
+1/3/2024,19,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.99,3.79,496,FALSE,FALSE,Rainy
+1/3/2024,23,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,44.46,74.97,23,FALSE,FALSE,Rainy
+1/3/2024,25,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,41.75,62.39,103,TRUE,FALSE,Rainy
+1/3/2024,44,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,12.65,14.06,192,FALSE,FALSE,Sunny
+1/3/2024,23,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,42.29,73.42,113,FALSE,FALSE,Sunny
+1/3/2024,46,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.72,9.66,274,FALSE,FALSE,Rainy
+1/3/2024,8,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.49,15.34,232,FALSE,FALSE,Rainy
+1/4/2024,32,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,13.64,28.55,0,FALSE,FALSE,Cloudy
+1/4/2024,23,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,44.7,68.43,194,FALSE,FALSE,Cloudy
+1/4/2024,5,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,3.73,5.86,226,FALSE,FALSE,Sunny
+1/4/2024,2,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.95,2.21,435,FALSE,FALSE,Cloudy
+1/4/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.95,24.04,53,FALSE,FALSE,Sunny
+1/4/2024,30,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.35,7.92,359,FALSE,TRUE,Sunny
+1/4/2024,39,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.14,11.21,619,TRUE,FALSE,Sunny
+1/4/2024,19,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.74,11.23,218,FALSE,FALSE,Cloudy
+1/4/2024,30,Cafe,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.79,6.65,425,TRUE,FALSE,Sunny
+1/4/2024,13,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,4.47,7.31,346,FALSE,FALSE,Sunny
+1/4/2024,39,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,31.28,46.56,0,FALSE,FALSE,Cloudy
+1/4/2024,20,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.64,4.22,577,FALSE,FALSE,Sunny
+1/4/2024,26,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.47,7.74,259,FALSE,FALSE,Sunny
+1/4/2024,23,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,18.5,26.95,73,FALSE,FALSE,Cloudy
+1/4/2024,33,Cafe,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.7,9.42,231,FALSE,FALSE,Rainy
+1/4/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.13,23.99,129,FALSE,FALSE,Sunny
+1/4/2024,13,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,1.8,2.43,506,FALSE,FALSE,Sunny
+1/4/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.98,24.27,172,FALSE,FALSE,Sunny
+1/4/2024,10,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,40.62,49.74,191,FALSE,FALSE,Cloudy
+1/4/2024,47,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,8.86,15.33,178,FALSE,FALSE,Sunny
+1/4/2024,44,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,9.21,14.53,270,FALSE,FALSE,Sunny
+1/4/2024,34,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,14.73,28.49,207,FALSE,FALSE,Sunny
+1/4/2024,10,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,6.84,8.44,141,FALSE,FALSE,Cloudy
+1/4/2024,23,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,11.46,9.51,477,TRUE,FALSE,Sunny
+1/4/2024,44,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.87,2.81,497,FALSE,FALSE,Sunny
+1/4/2024,48,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.42,14.13,338,FALSE,FALSE,Sunny
+1/4/2024,13,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.89,7.04,279,FALSE,FALSE,Sunny
+1/4/2024,11,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.1,6.9,192,FALSE,FALSE,Sunny
+1/5/2024,23,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,51.96,76.18,128,FALSE,FALSE,Cloudy
+1/5/2024,12,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3.27,3.22,316,FALSE,FALSE,Cloudy
+1/5/2024,28,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,45.43,68.49,40,FALSE,FALSE,Sunny
+1/5/2024,4,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.88,3.62,439,FALSE,FALSE,Sunny
+1/5/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.35,24.16,59,FALSE,FALSE,Cloudy
+1/5/2024,4,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,3.42,3.89,226,FALSE,FALSE,Cloudy
+1/5/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,2.13,2.34,373,FALSE,FALSE,Sunny
+1/5/2024,5,Cafe,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,3.59,4.29,340,FALSE,FALSE,Cloudy
+1/5/2024,9,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.41,4.5,535,FALSE,FALSE,Sunny
+1/5/2024,25,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,55.63,68.8,153,FALSE,FALSE,Sunny
+1/5/2024,43,Casual Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.24,22.87,86,FALSE,FALSE,Sunny
+1/5/2024,1,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.02,6.6,726,TRUE,FALSE,Cloudy
+1/5/2024,21,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,23.92,37.16,290,FALSE,FALSE,Sunny
+1/5/2024,8,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.78,7.14,288,TRUE,FALSE,Rainy
+1/5/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.97,29.45,0,FALSE,FALSE,Sunny
+1/5/2024,37,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.83,7.59,35,FALSE,FALSE,Rainy
+1/5/2024,12,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.51,12.26,229,FALSE,FALSE,Rainy
+1/5/2024,37,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,11.92,22.36,42,FALSE,FALSE,Sunny
+1/5/2024,11,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.53,16.21,53,FALSE,FALSE,Sunny
+1/5/2024,3,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,11.24,9.99,430,FALSE,FALSE,Sunny
+1/5/2024,37,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.78,3.16,309,FALSE,FALSE,Rainy
+1/5/2024,34,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.56,4.13,615,FALSE,FALSE,Sunny
+1/5/2024,8,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,28.25,60.09,98,FALSE,FALSE,Sunny
+1/5/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.08,9.9,280,FALSE,FALSE,Cloudy
+1/5/2024,2,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.84,2.7,348,FALSE,FALSE,Sunny
+1/5/2024,38,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,44.16,63.52,0,FALSE,FALSE,Sunny
+1/5/2024,28,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,18.72,30.56,6,FALSE,FALSE,Sunny
+1/5/2024,12,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.65,11.69,268,FALSE,FALSE,Sunny
+1/6/2024,37,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.95,2.57,896,FALSE,FALSE,Sunny
+1/6/2024,20,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,30.01,62.08,106,FALSE,FALSE,Cloudy
+1/6/2024,45,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.95,3.6,599,TRUE,FALSE,Rainy
+1/6/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.9,16.05,357,TRUE,FALSE,Sunny
+1/6/2024,34,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.18,10,144,FALSE,FALSE,Cloudy
+1/6/2024,16,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.63,2.11,407,FALSE,FALSE,Sunny
+1/6/2024,10,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,42.09,66.97,67,FALSE,FALSE,Sunny
+1/6/2024,40,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.62,6.81,395,FALSE,TRUE,Cloudy
+1/6/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.28,27.49,133,FALSE,FALSE,Sunny
+1/6/2024,10,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,14.93,14.41,407,FALSE,FALSE,Rainy
+1/6/2024,19,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.95,4.54,836,FALSE,FALSE,Sunny
+1/6/2024,12,Cafe,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,34.33,36.17,176,FALSE,FALSE,Cloudy
+1/6/2024,35,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,7.48,12.4,230,FALSE,FALSE,Sunny
+1/6/2024,49,Kopitiam,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,14.29,21.43,202,FALSE,FALSE,Cloudy
+1/6/2024,45,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.3,8.18,531,FALSE,FALSE,Sunny
+1/6/2024,34,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,14.59,25.34,199,FALSE,FALSE,Sunny
+1/6/2024,9,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,23.13,46.47,176,FALSE,FALSE,Sunny
+1/6/2024,32,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,4.68,5.14,751,TRUE,FALSE,Rainy
+1/6/2024,37,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.82,6.32,337,FALSE,FALSE,Rainy
+1/6/2024,29,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.03,4.94,799,TRUE,FALSE,Sunny
+1/6/2024,13,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.94,2.87,551,FALSE,FALSE,Sunny
+1/6/2024,4,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,11.07,9.61,526,FALSE,FALSE,Sunny
+1/6/2024,50,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.59,2.35,610,FALSE,FALSE,Sunny
+1/6/2024,47,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,12.71,15.8,68,FALSE,FALSE,Rainy
+1/7/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.59,17.54,300,TRUE,FALSE,Sunny
+1/7/2024,25,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,49.08,63.62,0,FALSE,FALSE,Sunny
+1/7/2024,28,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,10.22,16.76,421,FALSE,FALSE,Cloudy
+1/7/2024,48,Casual Dining,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,16.03,31.2,100,FALSE,FALSE,Cloudy
+1/7/2024,42,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,13.58,12.69,444,FALSE,FALSE,Sunny
+1/7/2024,14,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.61,6.03,762,TRUE,TRUE,Rainy
+1/7/2024,28,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,5.82,7.26,617,FALSE,FALSE,Sunny
+1/7/2024,43,Casual Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,9.56,18.36,25,FALSE,FALSE,Rainy
+1/7/2024,45,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4,6.33,361,FALSE,FALSE,Cloudy
+1/7/2024,9,Casual Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,23.86,41.77,241,FALSE,FALSE,Rainy
+1/7/2024,35,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,11.01,13.04,252,TRUE,FALSE,Rainy
+1/7/2024,35,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,9.37,19.51,165,FALSE,FALSE,Cloudy
+1/7/2024,6,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,34.97,43.6,283,FALSE,FALSE,Sunny
+1/7/2024,25,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,11.01,12.74,408,FALSE,FALSE,Sunny
+1/7/2024,16,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.55,2.14,601,FALSE,FALSE,Sunny
+1/7/2024,35,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.83,2.78,743,FALSE,FALSE,Cloudy
+1/7/2024,39,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3.03,3.9,638,FALSE,FALSE,Sunny
+1/7/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.35,8.03,418,FALSE,FALSE,Rainy
+1/7/2024,15,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.89,9.21,500,FALSE,FALSE,Sunny
+1/7/2024,28,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,5.38,7.23,301,FALSE,FALSE,Rainy
+1/7/2024,49,Kopitiam,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.63,7.03,148,FALSE,FALSE,Sunny
+1/7/2024,7,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,9.18,19.85,68,FALSE,FALSE,Cloudy
+1/7/2024,16,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.73,2.62,472,FALSE,FALSE,Sunny
+1/7/2024,33,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.96,10.17,431,FALSE,TRUE,Sunny
+1/7/2024,32,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,13.88,28.99,106,FALSE,FALSE,Cloudy
+1/7/2024,23,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,36.1,82.38,107,FALSE,FALSE,Rainy
+1/7/2024,12,Cafe,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,10.52,10.08,468,FALSE,FALSE,Sunny
+1/7/2024,36,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.84,2.55,265,FALSE,FALSE,Rainy
+1/7/2024,23,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,47.21,75.55,39,FALSE,FALSE,Rainy
+1/7/2024,46,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,26.19,29.33,273,TRUE,FALSE,Sunny
+1/7/2024,23,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,34.94,36.98,498,TRUE,FALSE,Cloudy
+1/8/2024,35,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2,2.24,1545,TRUE,FALSE,Sunny
+1/8/2024,42,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,38.45,73.99,111,FALSE,FALSE,Sunny
+1/8/2024,5,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.52,4.03,376,FALSE,FALSE,Rainy
+1/8/2024,47,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.16,13.88,142,FALSE,FALSE,Cloudy
+1/8/2024,27,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.47,2.91,85,FALSE,FALSE,Rainy
+1/8/2024,21,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,26.41,57.55,51,FALSE,FALSE,Cloudy
+1/8/2024,29,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.77,6.93,288,FALSE,FALSE,Sunny
+1/8/2024,48,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.13,7.08,240,TRUE,FALSE,Cloudy
+1/8/2024,7,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.32,3.79,321,FALSE,FALSE,Cloudy
+1/8/2024,49,Kopitiam,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.01,10.31,481,FALSE,FALSE,Sunny
+1/8/2024,46,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.65,9.91,518,TRUE,FALSE,Sunny
+1/8/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.82,13.65,207,TRUE,FALSE,Sunny
+1/8/2024,32,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,41.78,62.74,156,FALSE,FALSE,Cloudy
+1/8/2024,9,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.99,12.59,437,FALSE,FALSE,Sunny
+1/8/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.59,24.86,0,FALSE,FALSE,Sunny
+1/8/2024,22,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,2.02,2.35,564,FALSE,FALSE,Cloudy
+1/8/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.49,25.2,0,FALSE,FALSE,Sunny
+1/8/2024,43,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.39,13.28,367,FALSE,FALSE,Sunny
+1/8/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.96,30.75,0,FALSE,FALSE,Sunny
+1/9/2024,46,Casual Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,3.1,6.35,390,FALSE,FALSE,Rainy
+1/9/2024,13,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,4.73,11.47,109,FALSE,FALSE,Sunny
+1/9/2024,30,Cafe,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,32.82,48.57,60,FALSE,FALSE,Cloudy
+1/9/2024,24,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.74,10.98,194,FALSE,FALSE,Cloudy
+1/9/2024,47,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.36,5.02,553,TRUE,FALSE,Sunny
+1/9/2024,35,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.91,6.69,131,FALSE,FALSE,Cloudy
+1/9/2024,45,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.97,8,203,FALSE,FALSE,Sunny
+1/9/2024,9,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.14,19.12,198,FALSE,FALSE,Rainy
+1/9/2024,11,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.16,7.99,18,FALSE,TRUE,Rainy
+1/9/2024,41,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,23.01,36.47,199,FALSE,FALSE,Cloudy
+1/9/2024,14,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.9,6.1,210,FALSE,FALSE,Sunny
+1/9/2024,49,Kopitiam,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.79,8.27,449,FALSE,FALSE,Sunny
+1/9/2024,48,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,15.72,34.16,110,FALSE,FALSE,Sunny
+1/9/2024,14,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.68,9,88,FALSE,FALSE,Rainy
+1/9/2024,43,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,23.3,41.16,363,FALSE,FALSE,Rainy
+1/9/2024,6,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,14.08,27.87,0,FALSE,FALSE,Sunny
+1/9/2024,29,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,11.08,19.51,25,FALSE,FALSE,Rainy
+1/9/2024,38,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,41.74,72.89,75,FALSE,FALSE,Rainy
+1/9/2024,37,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.74,8.58,73,FALSE,FALSE,Sunny
+1/9/2024,9,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.5,4.99,195,FALSE,FALSE,Rainy
+1/9/2024,25,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,6.53,6.98,323,FALSE,FALSE,Sunny
+1/9/2024,9,Casual Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,3.38,6.37,168,FALSE,FALSE,Cloudy
+1/10/2024,26,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.44,7.82,256,FALSE,FALSE,Cloudy
+1/10/2024,19,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.28,6.79,358,TRUE,FALSE,Rainy
+1/10/2024,42,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,13.51,19.3,149,FALSE,FALSE,Rainy
+1/10/2024,15,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,19.56,41.29,96,FALSE,FALSE,Sunny
+1/10/2024,3,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.91,12.56,347,FALSE,FALSE,Sunny
+1/10/2024,34,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,3.04,3.78,808,FALSE,TRUE,Cloudy
+1/10/2024,28,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,36.95,47.54,322,FALSE,TRUE,Sunny
+1/10/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.47,31.45,0,FALSE,FALSE,Cloudy
+1/10/2024,25,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,51.98,74.52,0,FALSE,FALSE,Rainy
+1/10/2024,6,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,44.21,45.12,193,TRUE,FALSE,Cloudy
+1/10/2024,45,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,12.2,13.68,257,FALSE,FALSE,Sunny
+1/10/2024,3,Cafe,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,33.25,43.17,135,FALSE,FALSE,Rainy
+1/10/2024,35,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.68,7.91,397,FALSE,FALSE,Sunny
+1/10/2024,47,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.27,14.68,179,FALSE,FALSE,Sunny
+1/10/2024,17,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,8.87,16.01,189,FALSE,FALSE,Cloudy
+1/10/2024,43,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.43,8.11,530,TRUE,FALSE,Rainy
+1/10/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.36,8.85,326,FALSE,FALSE,Sunny
+1/10/2024,33,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.59,16.24,0,FALSE,TRUE,Sunny
+1/10/2024,9,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,22.28,33.33,248,FALSE,FALSE,Cloudy
+1/10/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.61,29.6,0,FALSE,FALSE,Cloudy
+1/10/2024,35,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.91,2.28,1224,TRUE,TRUE,Cloudy
+1/10/2024,8,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.99,3.88,564,FALSE,FALSE,Sunny
+1/10/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.59,2.8,353,FALSE,FALSE,Cloudy
+1/10/2024,24,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,13.24,25.3,18,FALSE,FALSE,Sunny
+1/10/2024,37,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.19,6.42,667,TRUE,FALSE,Cloudy
+1/10/2024,6,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,4.97,8.95,174,FALSE,FALSE,Sunny
+1/11/2024,47,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.54,2.46,461,FALSE,FALSE,Cloudy
+1/11/2024,41,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.24,13.02,140,TRUE,FALSE,Rainy
+1/11/2024,30,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3.41,3.83,478,FALSE,FALSE,Cloudy
+1/11/2024,49,Kopitiam,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,12.89,19.05,3,FALSE,FALSE,Cloudy
+1/11/2024,22,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.64,2.34,311,FALSE,FALSE,Sunny
+1/11/2024,42,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,46.67,65.07,96,FALSE,FALSE,Cloudy
+1/11/2024,37,Food Stall,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,7.68,15.27,22,FALSE,FALSE,Sunny
+1/11/2024,39,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.77,5.8,315,FALSE,FALSE,Sunny
+1/11/2024,26,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.63,2.76,398,FALSE,FALSE,Sunny
+1/11/2024,33,Cafe,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,3.18,3.7,475,FALSE,FALSE,Sunny
+1/11/2024,31,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.14,3.12,312,FALSE,FALSE,Cloudy
+1/11/2024,16,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.61,1.62,701,TRUE,FALSE,Sunny
+1/11/2024,3,Cafe,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,27.23,51.9,75,FALSE,FALSE,Rainy
+1/11/2024,14,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.02,6.71,285,FALSE,FALSE,Sunny
+1/11/2024,9,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,26.74,52.11,0,FALSE,FALSE,Sunny
+1/11/2024,22,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.89,3.09,144,FALSE,FALSE,Cloudy
+1/11/2024,24,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,3.14,4,688,FALSE,FALSE,Sunny
+1/11/2024,42,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,47.6,58.71,149,FALSE,FALSE,Sunny
+1/11/2024,3,Cafe,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,8.48,11.19,214,FALSE,FALSE,Sunny
+1/11/2024,25,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,47.9,61.23,154,FALSE,FALSE,Sunny
+1/11/2024,48,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,10.29,20.86,144,FALSE,FALSE,Rainy
+1/11/2024,5,Cafe,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,3.16,3.44,668,FALSE,FALSE,Cloudy
+1/11/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.61,25.71,178,FALSE,FALSE,Rainy
+1/11/2024,37,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.36,6.75,251,FALSE,FALSE,Sunny
+1/11/2024,41,Cafe,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,7.05,8.11,166,FALSE,FALSE,Rainy
+1/11/2024,32,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,17.83,17,44,TRUE,FALSE,Rainy
+1/11/2024,47,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.96,2.38,630,FALSE,FALSE,Sunny
+1/11/2024,44,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,11.93,17.49,4,FALSE,FALSE,Sunny
+1/11/2024,28,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,13.73,15.84,349,FALSE,FALSE,Cloudy
+1/11/2024,13,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,6.37,6.04,447,TRUE,FALSE,Sunny
+1/12/2024,49,Kopitiam,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.09,5.28,279,TRUE,FALSE,Cloudy
+1/12/2024,21,Casual Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,3.86,5.58,398,FALSE,FALSE,Sunny
+1/12/2024,17,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,11.81,9.19,414,TRUE,FALSE,Cloudy
+1/12/2024,12,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,3.08,3.61,354,FALSE,FALSE,Cloudy
+1/12/2024,19,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,10.23,24.75,0,FALSE,FALSE,Sunny
+1/12/2024,43,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,28.58,54.48,0,FALSE,FALSE,Sunny
+1/12/2024,37,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,8.03,11.11,378,FALSE,FALSE,Sunny
+1/12/2024,8,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,21.89,42.73,100,TRUE,TRUE,Sunny
+1/12/2024,1,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,21.35,29.47,211,FALSE,FALSE,Sunny
+1/12/2024,14,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.75,7.54,229,FALSE,FALSE,Sunny
+1/12/2024,35,Food Stall,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,9.55,12.84,192,FALSE,FALSE,Cloudy
+1/12/2024,32,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,43.62,68.87,181,FALSE,FALSE,Cloudy
+1/12/2024,33,Cafe,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,27.14,42.37,65,FALSE,FALSE,Rainy
+1/12/2024,31,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,12.43,19.12,73,FALSE,FALSE,Cloudy
+1/12/2024,24,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.99,11.35,130,FALSE,FALSE,Cloudy
+1/12/2024,40,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.63,2.45,593,FALSE,FALSE,Sunny
+1/12/2024,10,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,38.01,59.99,84,FALSE,FALSE,Sunny
+1/12/2024,14,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,6.15,5.59,380,TRUE,FALSE,Rainy
+1/12/2024,35,Food Stall,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,9.12,14.81,110,FALSE,FALSE,Sunny
+1/12/2024,38,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,19.47,24.82,0,FALSE,FALSE,Sunny
+1/12/2024,44,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,9.83,9.75,387,TRUE,FALSE,Sunny
+1/12/2024,32,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,45.42,72.92,0,FALSE,FALSE,Cloudy
+1/13/2024,31,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.84,7.48,218,FALSE,FALSE,Cloudy
+1/13/2024,37,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,11.96,17.94,125,FALSE,FALSE,Sunny
+1/13/2024,24,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.92,12.68,544,FALSE,FALSE,Sunny
+1/13/2024,3,Cafe,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,7.72,11.09,502,FALSE,FALSE,Sunny
+1/13/2024,5,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.07,9.57,631,FALSE,FALSE,Rainy
+1/13/2024,16,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.87,2.73,468,FALSE,FALSE,Cloudy
+1/13/2024,41,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12.13,15.41,195,FALSE,FALSE,Sunny
+1/13/2024,30,Cafe,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,27.41,33.26,170,FALSE,FALSE,Cloudy
+1/13/2024,15,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.86,2.5,655,FALSE,FALSE,Sunny
+1/13/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,18.72,23.06,236,FALSE,FALSE,Sunny
+1/13/2024,35,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.64,6.09,298,FALSE,FALSE,Sunny
+1/13/2024,24,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.73,13.62,426,FALSE,FALSE,Cloudy
+1/13/2024,3,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,32.1,52.06,83,FALSE,FALSE,Cloudy
+1/13/2024,15,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,18.94,27.84,269,FALSE,FALSE,Sunny
+1/13/2024,16,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.66,2.06,470,FALSE,FALSE,Cloudy
+1/13/2024,25,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,46.87,81.91,102,FALSE,FALSE,Sunny
+1/13/2024,29,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.1,2.35,1059,TRUE,FALSE,Rainy
+1/13/2024,42,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,7.22,4.86,921,TRUE,FALSE,Sunny
+1/13/2024,50,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.99,2.67,480,FALSE,FALSE,Rainy
+1/13/2024,35,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.22,6.84,240,FALSE,FALSE,Sunny
+1/13/2024,19,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.93,3.52,1023,TRUE,FALSE,Rainy
+1/13/2024,45,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,7.5,8.64,479,TRUE,FALSE,Sunny
+1/13/2024,9,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,26.89,28.02,273,TRUE,FALSE,Cloudy
+1/14/2024,6,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,14.26,30.01,100,FALSE,FALSE,Cloudy
+1/14/2024,33,Cafe,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.39,6.15,567,TRUE,FALSE,Sunny
+1/14/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.09,9.56,456,FALSE,FALSE,Rainy
+1/14/2024,47,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.77,3.8,565,TRUE,FALSE,Sunny
+1/14/2024,4,Cafe,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,27.29,47.04,83,FALSE,FALSE,Sunny
+1/14/2024,31,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.44,6.41,229,FALSE,FALSE,Sunny
+1/14/2024,31,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.14,2.85,675,FALSE,FALSE,Sunny
+1/14/2024,49,Kopitiam,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.91,9.01,740,FALSE,TRUE,Cloudy
+1/14/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.9,24.32,149,FALSE,FALSE,Sunny
+1/14/2024,46,Casual Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,3.52,3.7,731,TRUE,FALSE,Sunny
+1/14/2024,41,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,3.22,3.78,465,FALSE,FALSE,Rainy
+1/14/2024,8,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,9.05,19.38,0,FALSE,FALSE,Cloudy
+1/14/2024,40,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,21.68,32.35,79,FALSE,FALSE,Rainy
+1/14/2024,43,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.38,4.88,444,FALSE,FALSE,Sunny
+1/14/2024,7,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,22.55,43.34,134,FALSE,FALSE,Sunny
+1/14/2024,6,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,5.16,6.62,292,FALSE,FALSE,Sunny
+1/14/2024,34,Casual Dining,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,12.64,20.69,239,FALSE,FALSE,Sunny
+1/14/2024,49,Kopitiam,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.93,9.55,432,FALSE,FALSE,Rainy
+1/14/2024,8,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.03,5.5,322,FALSE,FALSE,Sunny
+1/14/2024,30,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.56,18.42,0,FALSE,FALSE,Sunny
+1/14/2024,24,Casual Dining,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,12.85,10.87,349,TRUE,FALSE,Sunny
+1/14/2024,25,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,43.69,61.38,289,FALSE,TRUE,Sunny
+1/14/2024,34,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,3.09,4.44,648,FALSE,FALSE,Rainy
+1/14/2024,14,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.75,6.91,176,FALSE,FALSE,Cloudy
+1/14/2024,34,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.22,6.88,494,TRUE,FALSE,Sunny
+1/15/2024,23,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,10.78,16.67,550,FALSE,FALSE,Cloudy
+1/15/2024,3,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.86,3.42,662,FALSE,FALSE,Sunny
+1/15/2024,42,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,51.41,66.97,190,FALSE,FALSE,Cloudy
+1/15/2024,31,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.27,8.22,578,FALSE,FALSE,Cloudy
+1/15/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.94,9.38,596,FALSE,FALSE,Sunny
+1/15/2024,39,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,9.1,22.44,108,FALSE,TRUE,Rainy
+1/15/2024,17,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.53,12.68,294,FALSE,FALSE,Cloudy
+1/15/2024,43,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,28.23,44.73,207,FALSE,TRUE,Sunny
+1/15/2024,32,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,6.07,8.21,447,FALSE,FALSE,Rainy
+1/15/2024,17,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.91,1.56,1079,TRUE,FALSE,Cloudy
+1/15/2024,35,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,10.55,14.24,362,FALSE,FALSE,Cloudy
+1/15/2024,14,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.82,7.57,570,FALSE,FALSE,Cloudy
+1/15/2024,37,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.01,8.85,681,FALSE,FALSE,Sunny
+1/15/2024,32,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,5.69,7.53,633,FALSE,TRUE,Cloudy
+1/15/2024,1,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.42,5.69,1068,TRUE,FALSE,Sunny
+1/15/2024,23,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,14.97,16.51,287,FALSE,FALSE,Sunny
+1/15/2024,49,Kopitiam,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,12.44,12.87,353,FALSE,FALSE,Cloudy
+1/15/2024,42,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,6.44,7.24,331,FALSE,FALSE,Cloudy
+1/15/2024,46,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.78,4.98,340,FALSE,FALSE,Cloudy
+1/15/2024,48,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.36,9.76,299,FALSE,FALSE,Sunny
+1/15/2024,40,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.27,5.67,350,FALSE,FALSE,Sunny
+1/15/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.82,23.43,178,FALSE,FALSE,Sunny
+1/15/2024,36,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.95,2.59,600,FALSE,FALSE,Sunny
+1/15/2024,6,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,5.3,8.03,454,FALSE,FALSE,Cloudy
+1/15/2024,21,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,31.8,36.52,326,FALSE,FALSE,Sunny
+1/15/2024,18,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.87,2.15,905,FALSE,TRUE,Sunny
+1/15/2024,30,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.89,12.07,448,FALSE,FALSE,Cloudy
+1/15/2024,29,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.92,2.35,820,FALSE,FALSE,Cloudy
+1/16/2024,1,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,19.79,32.82,181,FALSE,FALSE,Sunny
+1/16/2024,30,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3.69,3.44,508,FALSE,FALSE,Sunny
+1/16/2024,2,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.48,2.85,159,FALSE,FALSE,Sunny
+1/16/2024,9,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,25.5,46.17,145,FALSE,TRUE,Cloudy
+1/16/2024,46,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,23.74,49.3,192,FALSE,FALSE,Sunny
+1/16/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.03,21.35,187,FALSE,FALSE,Rainy
+1/16/2024,37,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.91,2.05,1091,TRUE,FALSE,Sunny
+1/16/2024,30,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.84,3.62,185,FALSE,FALSE,Cloudy
+1/16/2024,37,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.56,10.94,181,FALSE,FALSE,Rainy
+1/16/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.44,32.02,0,FALSE,FALSE,Rainy
+1/16/2024,46,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.64,12.19,369,FALSE,FALSE,Sunny
+1/16/2024,41,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.72,3.34,377,FALSE,FALSE,Sunny
+1/16/2024,5,Cafe,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,28.82,26.13,209,TRUE,FALSE,Rainy
+1/16/2024,47,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.11,5.45,719,TRUE,FALSE,Cloudy
+1/16/2024,29,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,12.74,16.95,179,FALSE,FALSE,Sunny
+1/16/2024,13,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,16.57,31.23,178,FALSE,FALSE,Cloudy
+1/16/2024,21,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,19.43,40.86,281,FALSE,FALSE,Cloudy
+1/16/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.49,26.75,181,FALSE,FALSE,Rainy
+1/16/2024,24,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,11.42,14.22,324,TRUE,FALSE,Rainy
+1/16/2024,9,Casual Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,25.9,56.46,63,FALSE,FALSE,Sunny
+1/16/2024,12,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,32.84,40.52,44,FALSE,FALSE,Cloudy
+1/16/2024,36,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,2.09,2.59,576,FALSE,FALSE,Sunny
+1/16/2024,16,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.59,2.86,279,FALSE,FALSE,Rainy
+1/16/2024,30,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.68,15.87,0,FALSE,FALSE,Sunny
+1/16/2024,36,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.93,1.76,789,TRUE,FALSE,Cloudy
+1/16/2024,8,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.15,3.52,405,FALSE,FALSE,Sunny
+1/16/2024,20,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,26.83,41.07,189,FALSE,FALSE,Cloudy
+1/16/2024,20,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,24.41,42.96,169,FALSE,FALSE,Cloudy
+1/16/2024,19,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,13.77,20.76,191,FALSE,FALSE,Cloudy
+1/16/2024,18,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,2.06,2.58,350,FALSE,FALSE,Cloudy
+1/16/2024,5,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,3.19,3.93,461,FALSE,FALSE,Cloudy
+1/16/2024,21,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.08,11.51,218,FALSE,FALSE,Sunny
+1/16/2024,39,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.8,4.13,438,FALSE,FALSE,Rainy
+1/16/2024,45,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,9.93,18.71,100,FALSE,FALSE,Sunny
+1/16/2024,33,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.65,3.97,491,FALSE,FALSE,Sunny
+1/17/2024,47,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.12,3.02,286,FALSE,FALSE,Sunny
+1/17/2024,49,Kopitiam,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.08,6.81,135,FALSE,FALSE,Cloudy
+1/17/2024,42,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,12.08,14.19,404,FALSE,FALSE,Rainy
+1/17/2024,13,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.1,7.91,91,FALSE,FALSE,Cloudy
+1/17/2024,49,Kopitiam,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,10.75,15.92,137,FALSE,FALSE,Sunny
+1/17/2024,32,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,37.81,64.99,0,FALSE,FALSE,Sunny
+1/17/2024,6,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,35.13,81.9,0,FALSE,FALSE,Sunny
+1/17/2024,43,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,3.05,4.33,274,FALSE,FALSE,Sunny
+1/17/2024,23,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,19.22,30.47,0,FALSE,FALSE,Rainy
+1/17/2024,32,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.63,26.43,171,FALSE,FALSE,Sunny
+1/17/2024,19,Casual Dining,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,12.77,20.73,351,FALSE,FALSE,Sunny
+1/17/2024,28,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,46.52,49.52,191,TRUE,TRUE,Cloudy
+1/17/2024,13,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,6.1,10.06,190,FALSE,FALSE,Sunny
+1/17/2024,29,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,9.42,15.57,202,FALSE,FALSE,Sunny
+1/17/2024,26,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,22.25,32.63,107,FALSE,FALSE,Sunny
+1/17/2024,9,Casual Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,7.77,8.08,509,TRUE,FALSE,Sunny
+1/17/2024,38,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,15.06,15.23,161,FALSE,FALSE,Sunny
+1/17/2024,45,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.25,6.86,252,FALSE,FALSE,Sunny
+1/17/2024,27,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.49,2.4,372,FALSE,FALSE,Sunny
+1/17/2024,45,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,12.57,17.27,0,FALSE,FALSE,Rainy
+1/17/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.03,24.33,0,FALSE,FALSE,Cloudy
+1/17/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,2.01,3.16,224,FALSE,FALSE,Sunny
+1/18/2024,20,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.84,9.2,287,FALSE,FALSE,Cloudy
+1/18/2024,33,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12,11.89,239,TRUE,FALSE,Sunny
+1/18/2024,25,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,12.22,10.63,645,TRUE,FALSE,Sunny
+1/18/2024,14,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,20.06,34.27,0,FALSE,FALSE,Cloudy
+1/18/2024,23,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,6.89,9.53,121,FALSE,FALSE,Sunny
+1/18/2024,41,Cafe,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.6,2.57,863,TRUE,FALSE,Sunny
+1/18/2024,4,Cafe,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,10.19,7.31,652,TRUE,FALSE,Sunny
+1/18/2024,48,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.4,3.67,280,FALSE,FALSE,Sunny
+1/18/2024,24,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.44,11.7,233,FALSE,FALSE,Cloudy
+1/18/2024,34,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.4,10.3,252,FALSE,FALSE,Cloudy
+1/18/2024,9,Casual Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,32.1,47.86,136,FALSE,FALSE,Sunny
+1/18/2024,7,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,25.28,48.86,0,FALSE,FALSE,Cloudy
+1/18/2024,23,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,52.26,66.79,78,FALSE,FALSE,Sunny
+1/18/2024,13,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.13,2.4,883,FALSE,TRUE,Sunny
+1/18/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.59,2.83,126,FALSE,FALSE,Sunny
+1/18/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.78,24.98,100,FALSE,FALSE,Rainy
+1/18/2024,7,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,23.31,51.77,52,FALSE,TRUE,Rainy
+1/18/2024,43,Casual Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,28.34,33.72,170,TRUE,FALSE,Cloudy
+1/18/2024,47,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.04,8.6,396,TRUE,FALSE,Cloudy
+1/18/2024,41,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,33.43,46.98,202,FALSE,FALSE,Cloudy
+1/18/2024,7,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.67,18.82,122,FALSE,FALSE,Sunny
+1/18/2024,8,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.98,14.02,384,FALSE,FALSE,Sunny
+1/18/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.03,24.22,81,TRUE,FALSE,Sunny
+1/18/2024,1,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,4.42,8.16,263,FALSE,FALSE,Sunny
+1/18/2024,34,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.09,11.59,356,FALSE,FALSE,Cloudy
+1/19/2024,23,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.24,17.76,278,TRUE,FALSE,Sunny
+1/19/2024,3,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,31.37,44.52,160,FALSE,FALSE,Cloudy
+1/19/2024,39,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.28,4.44,436,FALSE,FALSE,Rainy
+1/19/2024,37,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.9,7.67,362,FALSE,FALSE,Sunny
+1/19/2024,45,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.24,9.14,122,FALSE,FALSE,Sunny
+1/19/2024,28,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,7.09,7.25,214,FALSE,FALSE,Cloudy
+1/19/2024,41,Cafe,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.53,4.44,565,TRUE,TRUE,Cloudy
+1/19/2024,32,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,5.76,9.46,191,FALSE,FALSE,Cloudy
+1/19/2024,41,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,27.36,38.43,47,FALSE,FALSE,Cloudy
+1/19/2024,44,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,9.53,16.78,134,FALSE,FALSE,Cloudy
+1/19/2024,13,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.07,7.54,419,FALSE,FALSE,Sunny
+1/19/2024,35,Food Stall,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,8.32,14.4,111,FALSE,FALSE,Rainy
+1/19/2024,41,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,32.53,45.37,77,FALSE,FALSE,Sunny
+1/19/2024,41,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,29.31,41.17,212,FALSE,FALSE,Rainy
+1/19/2024,29,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,9.94,22.96,103,FALSE,FALSE,Cloudy
+1/19/2024,13,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,6.08,5.32,650,TRUE,FALSE,Rainy
+1/19/2024,43,Casual Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.61,19.54,164,FALSE,FALSE,Sunny
+1/19/2024,49,Kopitiam,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.12,2.94,535,FALSE,FALSE,Sunny
+1/19/2024,36,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,2.11,2.54,431,FALSE,FALSE,Cloudy
+1/19/2024,29,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,9.31,17.87,161,FALSE,FALSE,Sunny
+1/19/2024,35,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.42,7.99,324,FALSE,FALSE,Sunny
+1/19/2024,28,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,6.15,8.52,336,FALSE,FALSE,Rainy
+1/19/2024,9,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.45,11.82,251,FALSE,FALSE,Cloudy
+1/19/2024,32,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,44.13,81.76,0,FALSE,FALSE,Sunny
+1/19/2024,12,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,3.77,6.15,216,FALSE,FALSE,Cloudy
+1/19/2024,22,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.81,1.77,438,TRUE,FALSE,Sunny
+1/19/2024,4,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,34.48,45.92,99,FALSE,FALSE,Cloudy
+1/19/2024,6,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.15,20.43,96,TRUE,FALSE,Cloudy
+1/19/2024,21,Casual Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,2.98,6.35,193,FALSE,FALSE,Sunny
+1/19/2024,3,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,4,6.81,21,FALSE,FALSE,Sunny
+1/19/2024,44,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.02,2.52,321,FALSE,FALSE,Sunny
+1/19/2024,7,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,20.02,33.28,205,TRUE,FALSE,Rainy
+1/19/2024,49,Kopitiam,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.62,8.14,438,FALSE,FALSE,Cloudy
+1/19/2024,19,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,17.43,25.73,66,FALSE,FALSE,Sunny
+1/19/2024,41,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,4.13,3.2,511,TRUE,FALSE,Sunny
+1/19/2024,19,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.83,12.93,107,FALSE,FALSE,Sunny
+1/19/2024,24,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.79,4.15,298,FALSE,FALSE,Cloudy
+1/19/2024,5,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.03,8.27,908,TRUE,FALSE,Rainy
+1/19/2024,46,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,23.09,30.86,259,TRUE,FALSE,Rainy
+1/20/2024,28,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,43.99,65.13,105,FALSE,FALSE,Cloudy
+1/20/2024,25,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,17.64,24.45,243,FALSE,FALSE,Sunny
+1/20/2024,43,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3,3.64,1190,TRUE,FALSE,Cloudy
+1/20/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.96,2.45,407,FALSE,FALSE,Sunny
+1/20/2024,14,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.3,7.88,575,FALSE,FALSE,Cloudy
+1/20/2024,7,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.21,20.12,24,FALSE,FALSE,Sunny
+1/20/2024,32,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,41.43,77.32,52,FALSE,FALSE,Sunny
+1/20/2024,1,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.05,3.08,678,FALSE,FALSE,Cloudy
+1/20/2024,17,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.3,6.69,716,TRUE,FALSE,Cloudy
+1/20/2024,47,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,11.33,13.96,352,FALSE,FALSE,Rainy
+1/20/2024,16,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.84,2.05,723,FALSE,FALSE,Sunny
+1/20/2024,45,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,9.76,16.43,396,FALSE,FALSE,Cloudy
+1/20/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.59,30.13,50,FALSE,FALSE,Sunny
+1/20/2024,30,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,32.93,40.71,251,FALSE,FALSE,Cloudy
+1/20/2024,10,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,12.84,14.04,674,FALSE,TRUE,Cloudy
+1/20/2024,10,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,44.27,67.72,158,FALSE,FALSE,Cloudy
+1/20/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.25,17.14,374,TRUE,FALSE,Rainy
+1/20/2024,9,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,27.31,29.79,344,TRUE,FALSE,Cloudy
+1/20/2024,3,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,7.82,6.15,635,TRUE,FALSE,Rainy
+1/20/2024,26,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,4.97,7.47,451,FALSE,FALSE,Rainy
+1/20/2024,42,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,41.26,48.79,283,FALSE,FALSE,Sunny
+1/20/2024,43,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,22.48,34.39,253,FALSE,FALSE,Cloudy
+1/20/2024,50,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.91,2.19,416,FALSE,FALSE,Sunny
+1/20/2024,39,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.46,12.02,312,TRUE,FALSE,Cloudy
+1/20/2024,44,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.17,12.26,308,FALSE,FALSE,Sunny
+1/21/2024,35,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,9.93,13.48,210,FALSE,FALSE,Sunny
+1/21/2024,20,Casual Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,7.7,8.25,691,TRUE,FALSE,Cloudy
+1/21/2024,20,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,20.36,48.56,100,FALSE,FALSE,Cloudy
+1/21/2024,15,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.89,5.75,326,FALSE,FALSE,Cloudy
+1/21/2024,47,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2,2.16,1193,TRUE,FALSE,Cloudy
+1/21/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.53,27.14,0,FALSE,FALSE,Sunny
+1/21/2024,10,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,14.76,13.63,391,FALSE,FALSE,Sunny
+1/21/2024,23,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,5.51,6.18,524,FALSE,FALSE,Cloudy
+1/21/2024,22,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.74,2.35,506,FALSE,FALSE,Sunny
+1/21/2024,25,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,39.49,54.95,279,FALSE,FALSE,Sunny
+1/21/2024,48,Casual Dining,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,13.84,21.7,248,FALSE,FALSE,Sunny
+1/21/2024,21,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.12,10.34,272,FALSE,FALSE,Sunny
+1/21/2024,14,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.28,4.27,409,TRUE,FALSE,Sunny
+1/21/2024,49,Kopitiam,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,8.82,15.74,378,FALSE,FALSE,Cloudy
+1/21/2024,19,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.36,3.66,377,FALSE,FALSE,Cloudy
+1/21/2024,38,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,45.18,67.36,93,FALSE,FALSE,Rainy
+1/21/2024,33,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,33.09,40.97,0,FALSE,FALSE,Cloudy
+1/21/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.24,20.44,272,FALSE,FALSE,Sunny
+1/21/2024,46,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,20.46,46.68,197,FALSE,FALSE,Rainy
+1/21/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.7,31.87,111,FALSE,FALSE,Sunny
+1/21/2024,25,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,12.64,15.73,268,FALSE,FALSE,Sunny
+1/21/2024,20,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,25.18,48.42,69,FALSE,FALSE,Rainy
+1/21/2024,42,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,50.6,55.59,155,FALSE,FALSE,Sunny
+1/21/2024,33,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.96,17.94,0,FALSE,FALSE,Sunny
+1/21/2024,23,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,41.71,78,89,FALSE,FALSE,Rainy
+1/21/2024,49,Kopitiam,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.28,5.1,607,TRUE,TRUE,Sunny
+1/21/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.16,32.31,127,FALSE,FALSE,Sunny
+1/22/2024,23,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,46.36,68.82,147,FALSE,FALSE,Cloudy
+1/22/2024,1,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,20.46,20.66,325,TRUE,FALSE,Sunny
+1/22/2024,26,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,17.35,20.14,349,TRUE,FALSE,Cloudy
+1/22/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.54,28,92,FALSE,FALSE,Cloudy
+1/22/2024,30,Cafe,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,26.19,40.03,0,FALSE,FALSE,Sunny
+1/22/2024,39,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,25.6,35.38,150,TRUE,FALSE,Sunny
+1/22/2024,9,Casual Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,8.01,9.61,594,TRUE,FALSE,Sunny
+1/22/2024,30,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,13.07,19.29,0,FALSE,FALSE,Cloudy
+1/22/2024,34,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.83,13.44,371,FALSE,FALSE,Cloudy
+1/22/2024,21,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.77,14.34,389,FALSE,FALSE,Sunny
+1/22/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.27,18.76,284,TRUE,FALSE,Rainy
+1/22/2024,34,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,14.97,28.98,45,FALSE,FALSE,Cloudy
+1/22/2024,19,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.5,13.77,410,FALSE,FALSE,Rainy
+1/22/2024,32,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,6.57,9.62,118,FALSE,FALSE,Sunny
+1/22/2024,37,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,10.97,18.48,0,FALSE,FALSE,Sunny
+1/22/2024,33,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,26.83,35.94,139,FALSE,FALSE,Cloudy
+1/22/2024,8,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,22.06,30.25,350,TRUE,FALSE,Rainy
+1/22/2024,40,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,6.15,5.28,566,TRUE,FALSE,Sunny
+1/22/2024,1,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.41,6.89,260,FALSE,FALSE,Cloudy
+1/22/2024,44,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.9,6.38,817,TRUE,FALSE,Sunny
+1/22/2024,13,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,1.69,2.9,270,FALSE,FALSE,Sunny
+1/23/2024,25,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,49.27,78.22,127,FALSE,FALSE,Sunny
+1/23/2024,42,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,33.99,42.12,176,TRUE,FALSE,Sunny
+1/23/2024,47,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.47,3.23,255,FALSE,FALSE,Rainy
+1/23/2024,2,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,2.02,2.08,460,FALSE,TRUE,Sunny
+1/23/2024,46,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.6,9.65,256,FALSE,FALSE,Cloudy
+1/23/2024,3,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,14.29,15.65,62,FALSE,FALSE,Sunny
+1/23/2024,8,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,24.89,40.73,240,FALSE,FALSE,Sunny
+1/23/2024,49,Kopitiam,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.77,8.27,423,FALSE,FALSE,Cloudy
+1/23/2024,1,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.4,9.18,187,FALSE,FALSE,Sunny
+1/23/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.88,17.21,160,TRUE,FALSE,Sunny
+1/23/2024,35,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,8.05,15.35,240,FALSE,FALSE,Sunny
+1/23/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.53,30.76,30,FALSE,FALSE,Cloudy
+1/23/2024,34,Casual Dining,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,10.83,20.55,132,FALSE,FALSE,Cloudy
+1/23/2024,16,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.77,2.14,473,FALSE,FALSE,Cloudy
+1/23/2024,19,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.86,12.17,17,FALSE,FALSE,Cloudy
+1/23/2024,39,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.81,3.51,677,FALSE,TRUE,Sunny
+1/23/2024,43,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,24.93,43.03,46,FALSE,FALSE,Rainy
+1/23/2024,3,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,30.85,38.97,82,FALSE,FALSE,Rainy
+1/24/2024,11,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.97,8.55,426,FALSE,FALSE,Sunny
+1/24/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,18,16.22,336,TRUE,FALSE,Sunny
+1/24/2024,42,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,14.92,26.64,115,FALSE,FALSE,Sunny
+1/24/2024,15,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.1,3.09,318,FALSE,FALSE,Sunny
+1/24/2024,43,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.32,5.79,154,FALSE,FALSE,Sunny
+1/24/2024,13,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.91,10.04,133,FALSE,FALSE,Sunny
+1/24/2024,45,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.72,7.52,347,FALSE,FALSE,Sunny
+1/24/2024,29,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.61,7.09,101,FALSE,FALSE,Sunny
+1/24/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.61,9.58,397,FALSE,FALSE,Sunny
+1/24/2024,39,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,28.71,49.72,163,FALSE,FALSE,Sunny
+1/24/2024,44,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.43,6.55,141,FALSE,FALSE,Cloudy
+1/24/2024,10,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,14.47,16.23,269,FALSE,FALSE,Cloudy
+1/24/2024,20,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,31.04,55.86,48,FALSE,FALSE,Cloudy
+1/24/2024,5,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,31.82,49.63,67,FALSE,FALSE,Rainy
+1/24/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.3,29.11,43,FALSE,FALSE,Sunny
+1/24/2024,11,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,12.92,15.65,86,FALSE,FALSE,Sunny
+1/24/2024,15,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,17.58,39.48,12,FALSE,FALSE,Rainy
+1/24/2024,46,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,3.13,4.01,445,FALSE,FALSE,Sunny
+1/24/2024,21,Casual Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,4.02,6.42,230,FALSE,FALSE,Cloudy
+1/24/2024,43,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.34,3.48,395,FALSE,FALSE,Sunny
+1/24/2024,17,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.27,13.52,153,FALSE,FALSE,Rainy
+1/24/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.03,16.53,197,TRUE,FALSE,Rainy
+1/24/2024,10,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,9.9,13.78,348,FALSE,FALSE,Rainy
+1/24/2024,18,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.51,2.19,358,FALSE,FALSE,Sunny
+1/24/2024,41,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.56,10.04,61,FALSE,FALSE,Sunny
+1/24/2024,3,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,23.8,34.91,260,FALSE,FALSE,Sunny
+1/25/2024,4,Cafe,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,4.4,3.96,520,FALSE,FALSE,Cloudy
+1/25/2024,19,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,16.37,28.98,147,FALSE,FALSE,Sunny
+1/25/2024,6,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,19.57,30.96,112,FALSE,FALSE,Cloudy
+1/25/2024,30,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.74,3.87,573,FALSE,FALSE,Cloudy
+1/25/2024,6,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,36.81,58.28,193,FALSE,FALSE,Sunny
+1/25/2024,37,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,11.34,16.71,151,FALSE,FALSE,Sunny
+1/25/2024,10,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,19.1,24.96,10,FALSE,FALSE,Sunny
+1/25/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.6,24.6,113,FALSE,FALSE,Sunny
+1/25/2024,19,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,16.53,22.5,315,FALSE,FALSE,Sunny
+1/25/2024,4,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,7.35,10.03,21,FALSE,FALSE,Sunny
+1/25/2024,50,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,2.08,2.65,500,FALSE,FALSE,Sunny
+1/25/2024,47,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.16,5.45,565,TRUE,FALSE,Cloudy
+1/25/2024,26,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,18.01,27.96,220,FALSE,FALSE,Cloudy
+1/25/2024,20,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.02,22.26,112,FALSE,FALSE,Sunny
+1/25/2024,20,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.63,11.48,438,FALSE,FALSE,Cloudy
+1/25/2024,45,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.2,4.03,627,TRUE,FALSE,Sunny
+1/25/2024,6,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.15,28.58,72,FALSE,FALSE,Cloudy
+1/25/2024,16,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.49,2.26,555,FALSE,FALSE,Sunny
+1/25/2024,25,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,38.77,35.03,455,TRUE,FALSE,Cloudy
+1/25/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.55,25.76,8,FALSE,FALSE,Cloudy
+1/25/2024,50,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.62,2.67,469,FALSE,FALSE,Rainy
+1/25/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.05,25.51,2,FALSE,FALSE,Cloudy
+1/25/2024,46,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.74,9.94,278,FALSE,FALSE,Sunny
+1/25/2024,6,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,49.91,60.88,277,FALSE,TRUE,Sunny
+1/25/2024,48,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.29,13.98,430,FALSE,FALSE,Sunny
+1/25/2024,29,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,9.04,8.6,409,TRUE,FALSE,Rainy
+1/25/2024,20,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,23.11,37.9,293,FALSE,FALSE,Sunny
+1/25/2024,34,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.64,14.02,801,FALSE,FALSE,Sunny
+1/25/2024,3,Cafe,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,30.64,28.33,296,FALSE,FALSE,Rainy
+1/26/2024,29,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5,7.88,239,FALSE,FALSE,Rainy
+1/26/2024,34,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.76,12.98,19,FALSE,FALSE,Rainy
+1/26/2024,4,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,34.79,36.99,158,FALSE,FALSE,Sunny
+1/26/2024,6,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,5.24,7.67,315,FALSE,FALSE,Sunny
+1/26/2024,11,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.34,7.3,115,FALSE,FALSE,Sunny
+1/26/2024,6,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.74,25.77,0,FALSE,FALSE,Rainy
+1/26/2024,40,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.18,9.35,364,FALSE,FALSE,Sunny
+1/26/2024,27,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.95,2.46,270,FALSE,FALSE,Cloudy
+1/26/2024,37,Food Stall,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,8.89,13.91,157,FALSE,FALSE,Rainy
+1/26/2024,49,Kopitiam,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.84,5.97,345,FALSE,FALSE,Sunny
+1/26/2024,6,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,6.03,7.47,177,FALSE,FALSE,Sunny
+1/26/2024,23,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,5.53,4.08,496,TRUE,FALSE,Rainy
+1/26/2024,34,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.52,13.68,110,FALSE,FALSE,Sunny
+1/26/2024,43,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,4.14,5.51,280,FALSE,FALSE,Cloudy
+1/26/2024,47,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,9.98,20.27,35,FALSE,FALSE,Sunny
+1/26/2024,11,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.85,2.64,722,FALSE,FALSE,Sunny
+1/26/2024,35,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,11.9,19.29,57,FALSE,FALSE,Cloudy
+1/26/2024,48,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,15.51,14.18,367,TRUE,FALSE,Sunny
+1/26/2024,40,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.9,6.34,356,FALSE,FALSE,Cloudy
+1/26/2024,9,Casual Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,7.17,13.4,146,FALSE,FALSE,Sunny
+1/26/2024,46,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.44,13.29,266,TRUE,FALSE,Sunny
+1/26/2024,44,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.79,9.66,269,FALSE,FALSE,Sunny
+1/26/2024,15,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.01,8.58,310,FALSE,FALSE,Sunny
+1/26/2024,20,Casual Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,3.05,7.76,0,FALSE,FALSE,Cloudy
+1/26/2024,45,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.63,8.51,393,FALSE,FALSE,Rainy
+1/26/2024,20,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,29.22,45.09,408,FALSE,FALSE,Sunny
+1/26/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.76,1.39,465,TRUE,FALSE,Sunny
+1/26/2024,26,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.26,9.69,320,FALSE,FALSE,Rainy
+1/27/2024,17,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.05,5.35,716,TRUE,TRUE,Sunny
+1/27/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.77,23.97,110,FALSE,FALSE,Cloudy
+1/27/2024,44,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.69,7.13,369,FALSE,FALSE,Cloudy
+1/27/2024,14,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,22.26,27.86,201,FALSE,FALSE,Sunny
+1/27/2024,46,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.21,4.83,303,FALSE,FALSE,Sunny
+1/27/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.67,26.33,136,FALSE,FALSE,Sunny
+1/27/2024,33,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,25.91,43.53,84,FALSE,FALSE,Sunny
+1/27/2024,29,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,8.87,12.02,284,TRUE,FALSE,Sunny
+1/27/2024,45,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,7.77,16.16,126,FALSE,FALSE,Sunny
+1/27/2024,45,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.69,2.66,438,FALSE,FALSE,Sunny
+1/27/2024,4,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,25.56,34.05,289,FALSE,FALSE,Cloudy
+1/27/2024,19,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,16.72,26.37,210,FALSE,FALSE,Sunny
+1/27/2024,25,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,10.65,9.01,714,TRUE,FALSE,Sunny
+1/27/2024,25,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,4.81,7.64,459,FALSE,FALSE,Sunny
+1/27/2024,24,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.06,9.9,249,FALSE,FALSE,Rainy
+1/27/2024,4,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,28.7,39.74,160,FALSE,FALSE,Sunny
+1/27/2024,49,Kopitiam,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.87,5.93,282,FALSE,FALSE,Sunny
+1/27/2024,8,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.04,12.07,431,FALSE,FALSE,Sunny
+1/27/2024,10,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,50.12,55.62,173,FALSE,FALSE,Cloudy
+1/27/2024,46,Casual Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.46,18.99,188,FALSE,FALSE,Cloudy
+1/27/2024,29,Food Stall,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,9.64,14.43,328,FALSE,FALSE,Sunny
+1/27/2024,24,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,13.56,16.37,270,FALSE,FALSE,Sunny
+1/27/2024,6,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,30.16,55.92,59,FALSE,FALSE,Cloudy
+1/27/2024,4,Cafe,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,33.33,27.68,85,TRUE,FALSE,Cloudy
+1/28/2024,40,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.87,2.95,564,FALSE,FALSE,Cloudy
+1/28/2024,19,Casual Dining,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,14.01,24.25,259,FALSE,FALSE,Cloudy
+1/28/2024,8,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.88,8.24,416,FALSE,FALSE,Sunny
+1/28/2024,44,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.8,5.95,817,TRUE,FALSE,Sunny
+1/28/2024,14,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,1.69,2.79,730,FALSE,FALSE,Sunny
+1/28/2024,12,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3.61,3.16,926,FALSE,FALSE,Sunny
+1/28/2024,49,Kopitiam,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.21,3.99,607,TRUE,FALSE,Sunny
+1/28/2024,27,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.71,2.56,466,FALSE,FALSE,Rainy
+1/28/2024,29,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.02,9.57,428,FALSE,FALSE,Rainy
+1/28/2024,11,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.95,6.99,242,FALSE,FALSE,Sunny
+1/28/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.08,9.98,309,FALSE,FALSE,Rainy
+1/28/2024,47,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.77,7.39,716,FALSE,FALSE,Cloudy
+1/28/2024,24,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.69,4.45,515,FALSE,FALSE,Cloudy
+1/28/2024,9,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,28.91,47.93,0,FALSE,FALSE,Rainy
+1/28/2024,46,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.8,7.86,536,TRUE,FALSE,Sunny
+1/28/2024,1,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.88,7.55,474,FALSE,FALSE,Rainy
+1/28/2024,30,Cafe,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,32.84,46.71,217,FALSE,FALSE,Sunny
+1/28/2024,6,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,37.54,66.91,63,FALSE,FALSE,Sunny
+1/28/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.31,22.78,276,FALSE,FALSE,Sunny
+1/28/2024,16,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.62,2.43,564,FALSE,FALSE,Sunny
+1/28/2024,28,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,42.48,60.34,87,FALSE,FALSE,Sunny
+1/28/2024,9,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.43,10.23,189,FALSE,FALSE,Sunny
+1/28/2024,44,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.43,7.16,272,FALSE,FALSE,Sunny
+1/28/2024,39,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.92,4.16,693,FALSE,FALSE,Rainy
+1/28/2024,45,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.98,2.81,367,FALSE,FALSE,Rainy
+1/28/2024,3,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11,19.36,108,FALSE,FALSE,Rainy
+1/29/2024,18,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.94,2.49,247,FALSE,FALSE,Rainy
+1/29/2024,10,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,4.82,7.79,222,FALSE,FALSE,Sunny
+1/29/2024,13,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,19.24,37.77,73,FALSE,FALSE,Cloudy
+1/29/2024,49,Kopitiam,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,11.91,13.69,231,TRUE,FALSE,Rainy
+1/29/2024,15,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.43,7.45,311,FALSE,FALSE,Sunny
+1/29/2024,28,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,11.41,17.44,391,FALSE,TRUE,Cloudy
+1/29/2024,20,Casual Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,25.65,45.32,240,FALSE,FALSE,Sunny
+1/29/2024,25,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.05,31.52,65,FALSE,FALSE,Cloudy
+1/29/2024,15,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,20.27,35.46,40,FALSE,FALSE,Cloudy
+1/29/2024,17,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.34,8.91,298,FALSE,FALSE,Sunny
+1/29/2024,28,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,5.85,8.61,202,FALSE,FALSE,Sunny
+1/29/2024,21,Casual Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,3.52,4.66,585,TRUE,FALSE,Sunny
+1/29/2024,32,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,38.98,38.62,241,TRUE,FALSE,Sunny
+1/29/2024,45,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.7,2.68,402,FALSE,FALSE,Cloudy
+1/29/2024,10,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,17.08,28.06,93,FALSE,FALSE,Cloudy
+1/29/2024,42,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,12.7,11.65,687,TRUE,TRUE,Rainy
+1/29/2024,10,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,18.64,15.96,270,TRUE,FALSE,Sunny
+1/29/2024,28,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,39.07,63.16,190,FALSE,FALSE,Sunny
+1/29/2024,11,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.66,8.97,212,FALSE,FALSE,Rainy
+1/29/2024,28,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,13.39,18.1,246,FALSE,FALSE,Sunny
+1/29/2024,47,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.87,7.76,422,FALSE,FALSE,Sunny
+1/29/2024,21,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,9.23,23.1,25,FALSE,FALSE,Cloudy
+1/30/2024,21,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.3,6.7,342,TRUE,FALSE,Sunny
+1/30/2024,46,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.78,4.19,341,FALSE,FALSE,Rainy
+1/30/2024,8,Casual Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,3.81,5.37,499,FALSE,FALSE,Sunny
+1/30/2024,32,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,5.05,6.47,394,FALSE,FALSE,Sunny
+1/30/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.51,8.39,363,FALSE,TRUE,Sunny
+1/30/2024,3,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,7.83,6.65,409,FALSE,TRUE,Sunny
+1/30/2024,43,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.44,4.47,470,FALSE,FALSE,Sunny
+1/30/2024,9,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.98,15.17,215,TRUE,FALSE,Cloudy
+1/30/2024,44,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.63,9.19,319,FALSE,FALSE,Sunny
+1/30/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.99,2.56,312,FALSE,FALSE,Sunny
+1/30/2024,40,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,17.58,28.64,277,FALSE,FALSE,Cloudy
+1/30/2024,1,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,18.03,38.84,17,FALSE,FALSE,Sunny
+1/30/2024,37,Food Stall,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,11.48,18.8,105,FALSE,FALSE,Rainy
+1/30/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.12,26.3,50,FALSE,FALSE,Sunny
+1/30/2024,46,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.4,12.95,493,FALSE,FALSE,Sunny
+1/30/2024,38,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,41.16,68.88,110,FALSE,TRUE,Cloudy
+1/30/2024,10,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,11.22,14.59,404,FALSE,FALSE,Cloudy
+1/30/2024,7,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.69,3.64,511,FALSE,TRUE,Sunny
+1/30/2024,1,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,22.13,21.3,399,TRUE,TRUE,Sunny
+1/30/2024,15,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,18.15,22.64,229,TRUE,FALSE,Cloudy
+1/30/2024,28,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,47.46,43.3,148,TRUE,FALSE,Rainy
+1/30/2024,15,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.77,7.58,144,FALSE,FALSE,Cloudy
+1/30/2024,28,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,42.22,68.26,76,FALSE,FALSE,Sunny
+1/30/2024,17,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.84,3.46,152,FALSE,FALSE,Rainy
+1/30/2024,10,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,43.28,80.04,115,FALSE,FALSE,Sunny
+1/30/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.78,24.72,145,FALSE,FALSE,Sunny
+1/31/2024,25,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,5.71,5.51,332,TRUE,FALSE,Cloudy
+1/31/2024,10,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,18.8,27.45,66,FALSE,FALSE,Cloudy
+1/31/2024,26,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.27,7.8,318,FALSE,FALSE,Cloudy
+1/31/2024,30,Cafe,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,4.53,5.13,358,FALSE,FALSE,Sunny
+1/31/2024,17,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,12.39,17.61,96,FALSE,TRUE,Rainy
+1/31/2024,3,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,10.59,12.98,248,FALSE,FALSE,Cloudy
+1/31/2024,34,Casual Dining,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,11.3,18.05,125,TRUE,FALSE,Cloudy
+1/31/2024,38,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,11.22,10.82,381,TRUE,FALSE,Rainy
+1/31/2024,1,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.61,9.05,139,FALSE,FALSE,Rainy
+1/31/2024,41,Cafe,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,3.36,5.9,234,FALSE,FALSE,Sunny
+1/31/2024,30,Cafe,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.89,9.05,218,FALSE,FALSE,Sunny
+1/31/2024,48,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.64,9.31,874,TRUE,FALSE,Sunny
+1/31/2024,12,Cafe,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,3.73,4.73,376,FALSE,FALSE,Sunny
+1/31/2024,40,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.71,2.59,471,FALSE,FALSE,Sunny
+1/31/2024,3,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3.6,3.19,520,FALSE,FALSE,Cloudy
+1/31/2024,49,Kopitiam,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,9.97,18.91,295,FALSE,TRUE,Cloudy
+1/31/2024,43,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.7,6.67,244,FALSE,FALSE,Sunny
+1/31/2024,48,Casual Dining,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,11.44,17.98,291,FALSE,FALSE,Sunny
+1/31/2024,21,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.65,13.13,52,FALSE,FALSE,Rainy
+1/31/2024,22,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,2.11,3.17,205,FALSE,FALSE,Sunny
+1/31/2024,38,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,35.64,59.02,0,FALSE,FALSE,Rainy
+1/31/2024,46,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,7.02,11.57,219,FALSE,FALSE,Sunny
+1/31/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.95,23.54,253,FALSE,TRUE,Sunny
+1/31/2024,41,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3.2,3.58,363,FALSE,FALSE,Cloudy
+1/31/2024,14,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.15,10.59,179,FALSE,FALSE,Sunny
+1/31/2024,28,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,16.72,25.58,158,FALSE,FALSE,Sunny
+1/31/2024,10,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,40.3,62.29,165,FALSE,FALSE,Cloudy
+1/31/2024,13,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,17.27,38.85,44,FALSE,FALSE,Sunny
+1/31/2024,26,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,19.34,22.04,173,TRUE,FALSE,Cloudy
+1/31/2024,42,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,39.55,57.87,107,FALSE,FALSE,Cloudy
+1/31/2024,30,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,14.95,18.88,38,FALSE,FALSE,Cloudy
+1/31/2024,36,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.97,2.8,206,FALSE,FALSE,Sunny
+1/31/2024,28,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,17.45,25.66,146,FALSE,FALSE,Sunny
+1/31/2024,25,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,33.78,46.28,184,TRUE,FALSE,Cloudy
+2/1/2024,18,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.85,2.75,355,FALSE,FALSE,Rainy
+2/1/2024,35,Food Stall,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,7.04,12.19,257,FALSE,FALSE,Rainy
+2/1/2024,5,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,36.34,26.47,311,TRUE,FALSE,Sunny
+2/1/2024,7,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,26.67,46.1,141,FALSE,FALSE,Cloudy
+2/1/2024,14,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.67,5.56,433,FALSE,FALSE,Sunny
+2/1/2024,38,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,15.19,30.12,96,FALSE,FALSE,Rainy
+2/1/2024,30,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,4.13,4.8,562,FALSE,FALSE,Cloudy
+2/1/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.13,26.51,173,FALSE,FALSE,Cloudy
+2/1/2024,34,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,14.31,19.1,332,FALSE,FALSE,Sunny
+2/1/2024,10,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,5.47,8.31,346,FALSE,FALSE,Sunny
+2/1/2024,30,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,7.69,8.17,407,FALSE,FALSE,Sunny
+2/1/2024,30,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,11.43,9.34,558,FALSE,FALSE,Rainy
+2/1/2024,14,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.13,8.27,717,FALSE,FALSE,Sunny
+2/1/2024,6,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,44.08,69.14,52,FALSE,FALSE,Cloudy
+2/1/2024,40,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,6.09,6.65,435,FALSE,FALSE,Rainy
+2/1/2024,31,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.92,6.98,372,FALSE,FALSE,Rainy
+2/1/2024,26,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.67,7.39,654,FALSE,TRUE,Sunny
+2/1/2024,8,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,28.42,58.1,99,FALSE,FALSE,Cloudy
+2/1/2024,44,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,11.19,12.53,305,FALSE,FALSE,Sunny
+2/1/2024,9,Casual Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,25.27,57.39,107,FALSE,FALSE,Sunny
+2/1/2024,14,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.75,6.52,307,FALSE,FALSE,Sunny
+2/1/2024,44,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.07,9.24,494,FALSE,FALSE,Rainy
+2/1/2024,8,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,25.06,36.23,255,FALSE,TRUE,Sunny
+2/1/2024,5,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12.74,13.88,140,FALSE,FALSE,Sunny
+2/1/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.8,17.15,378,TRUE,FALSE,Sunny
+2/1/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.92,31.05,76,FALSE,FALSE,Cloudy
+2/1/2024,26,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.63,7.32,226,FALSE,FALSE,Sunny
+2/1/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,12.77,25.98,59,FALSE,FALSE,Sunny
+2/1/2024,4,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.63,3.73,762,FALSE,FALSE,Sunny
+2/1/2024,42,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,40.78,66.25,132,FALSE,FALSE,Rainy
+2/1/2024,9,Casual Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,3.27,4.25,428,TRUE,FALSE,Cloudy
+2/1/2024,34,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,10.91,18.98,526,FALSE,TRUE,Rainy
+2/1/2024,9,Casual Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,8.97,9.75,546,FALSE,FALSE,Rainy
+2/1/2024,49,Kopitiam,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,10.68,14.27,262,FALSE,FALSE,Rainy
+2/2/2024,14,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,20.23,34.91,174,FALSE,FALSE,Sunny
+2/2/2024,7,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.96,12.04,133,FALSE,FALSE,Cloudy
+2/2/2024,46,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.66,3.6,486,FALSE,FALSE,Cloudy
+2/2/2024,21,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.35,12.64,0,FALSE,FALSE,Sunny
+2/2/2024,40,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.47,9.88,89,FALSE,FALSE,Cloudy
+2/2/2024,16,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.79,2,660,TRUE,FALSE,Sunny
+2/2/2024,30,Cafe,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,3,3.17,594,FALSE,FALSE,Rainy
+2/2/2024,23,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,5.3,7.88,299,FALSE,TRUE,Sunny
+2/2/2024,5,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,25.59,53.33,95,FALSE,FALSE,Cloudy
+2/2/2024,30,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12.76,20.62,23,FALSE,FALSE,Rainy
+2/2/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.76,24.48,25,FALSE,FALSE,Cloudy
+2/2/2024,22,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.77,2.62,316,FALSE,FALSE,Cloudy
+2/2/2024,14,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,1.94,3.56,210,FALSE,FALSE,Rainy
+2/2/2024,14,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.85,5.27,284,TRUE,FALSE,Rainy
+2/2/2024,5,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.77,6.65,806,TRUE,FALSE,Rainy
+2/2/2024,30,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12.09,17.08,134,FALSE,FALSE,Cloudy
+2/3/2024,9,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.76,4.64,697,TRUE,FALSE,Sunny
+2/3/2024,30,Cafe,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,4.24,4.97,472,FALSE,FALSE,Cloudy
+2/3/2024,47,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,11.09,13.62,245,FALSE,FALSE,Sunny
+2/3/2024,11,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.67,5.27,414,FALSE,FALSE,Cloudy
+2/3/2024,11,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.07,6.82,327,FALSE,FALSE,Rainy
+2/3/2024,47,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.56,6.35,415,FALSE,FALSE,Sunny
+2/3/2024,19,Casual Dining,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,11.27,20.24,330,FALSE,FALSE,Sunny
+2/3/2024,11,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.06,6.85,257,FALSE,FALSE,Sunny
+2/3/2024,11,Food Stall,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.23,1.88,839,TRUE,FALSE,Sunny
+2/3/2024,2,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,2.09,2.5,283,FALSE,FALSE,Rainy
+2/3/2024,46,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,26.74,50.74,104,FALSE,FALSE,Sunny
+2/3/2024,20,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.39,13.68,401,FALSE,FALSE,Rainy
+2/3/2024,19,Casual Dining,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,13.36,31.47,100,FALSE,FALSE,Cloudy
+2/3/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.85,25.73,97,FALSE,FALSE,Sunny
+2/3/2024,7,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.46,10.78,232,FALSE,FALSE,Sunny
+2/3/2024,37,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.81,9.28,574,FALSE,FALSE,Cloudy
+2/3/2024,35,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.71,7.13,324,FALSE,FALSE,Cloudy
+2/3/2024,7,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.21,3.64,840,TRUE,FALSE,Cloudy
+2/3/2024,48,Casual Dining,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,14.14,15.83,239,TRUE,FALSE,Cloudy
+2/3/2024,38,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,13.19,16.25,508,FALSE,FALSE,Rainy
+2/3/2024,50,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.86,25.24,55,FALSE,FALSE,Cloudy
+2/3/2024,23,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,54.43,60.19,200,FALSE,FALSE,Sunny
+2/3/2024,20,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,22.87,44,48,FALSE,FALSE,Cloudy
+2/3/2024,38,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,5.94,4.55,646,TRUE,FALSE,Cloudy
+2/3/2024,15,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.27,8.48,324,FALSE,FALSE,Cloudy
+2/3/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.28,32.02,91,FALSE,FALSE,Cloudy
+2/3/2024,5,Cafe,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.61,3.8,842,FALSE,FALSE,Sunny
+2/3/2024,3,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,10.02,9.7,444,FALSE,FALSE,Sunny
+2/3/2024,32,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,46.21,43.15,185,TRUE,FALSE,Sunny
+2/3/2024,46,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.49,19.51,138,FALSE,FALSE,Cloudy
+2/4/2024,33,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.5,3.96,544,FALSE,FALSE,Sunny
+2/4/2024,9,Casual Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,30.57,41.34,154,FALSE,FALSE,Sunny
+2/4/2024,32,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,30.19,55.34,392,FALSE,TRUE,Sunny
+2/4/2024,4,Cafe,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,37.34,39.11,179,FALSE,FALSE,Sunny
+2/4/2024,30,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,29.5,41.85,118,FALSE,FALSE,Sunny
+2/4/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.14,31.95,70,FALSE,FALSE,Sunny
+2/4/2024,17,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.96,6.02,409,FALSE,FALSE,Cloudy
+2/4/2024,19,Casual Dining,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,13.08,13.2,421,TRUE,FALSE,Cloudy
+2/4/2024,40,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.5,8.67,190,FALSE,FALSE,Rainy
+2/4/2024,10,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,42.16,64.37,87,FALSE,FALSE,Sunny
+2/4/2024,15,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.75,2.06,1492,TRUE,FALSE,Sunny
+2/4/2024,20,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,2.74,4.59,326,FALSE,FALSE,Cloudy
+2/4/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.03,20.91,261,FALSE,FALSE,Cloudy
+2/4/2024,38,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,41.25,68.87,0,FALSE,FALSE,Cloudy
+2/4/2024,3,Cafe,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,8.41,10.97,393,FALSE,FALSE,Sunny
+2/4/2024,3,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,4.24,5.22,494,FALSE,FALSE,Sunny
+2/4/2024,42,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,14.2,16.42,239,FALSE,FALSE,Sunny
+2/4/2024,13,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.28,2.74,809,FALSE,FALSE,Sunny
+2/4/2024,23,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,11.24,16.01,378,FALSE,FALSE,Cloudy
+2/4/2024,37,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.29,6.37,516,FALSE,FALSE,Sunny
+2/4/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.76,21.69,185,FALSE,FALSE,Sunny
+2/4/2024,6,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,30.93,47.82,274,FALSE,FALSE,Sunny
+2/4/2024,50,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.81,1.57,661,TRUE,FALSE,Rainy
+2/4/2024,45,Food Stall,Chicken Rice,Lunch,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,7.17,12.66,187,FALSE,FALSE,Sunny
+2/4/2024,43,Casual Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,7.26,11.57,336,FALSE,FALSE,Sunny
+2/4/2024,15,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,21.74,33.85,13,FALSE,FALSE,Sunny
+2/4/2024,12,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,3.42,5.02,308,FALSE,FALSE,Cloudy
+2/4/2024,5,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,4.88,4.73,542,FALSE,FALSE,Sunny
+2/5/2024,3,Cafe,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,33.73,50.07,99,FALSE,TRUE,Sunny
+2/5/2024,21,Casual Dining,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.18,4.59,355,FALSE,FALSE,Rainy
+2/5/2024,26,Food Stall,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,5.47,10.2,108,FALSE,FALSE,Rainy
+2/5/2024,31,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.52,6.75,298,FALSE,FALSE,Sunny
+2/5/2024,10,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,6.62,8.33,170,FALSE,FALSE,Sunny
+2/5/2024,5,Cafe,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.92,3.77,619,FALSE,FALSE,Sunny
+2/5/2024,1,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,17.56,28.96,0,TRUE,FALSE,Sunny
+2/5/2024,38,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,42.06,60.88,134,FALSE,FALSE,Cloudy
+2/5/2024,15,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.85,9.2,75,FALSE,FALSE,Cloudy
+2/5/2024,38,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,44.57,66.66,72,FALSE,FALSE,Cloudy
+2/5/2024,39,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,27.7,57.71,39,FALSE,FALSE,Sunny
+2/5/2024,32,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,4.67,8.54,188,FALSE,FALSE,Sunny
+2/5/2024,45,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.52,6.11,161,FALSE,FALSE,Sunny
+2/5/2024,19,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.32,11.58,88,FALSE,FALSE,Rainy
+2/5/2024,33,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,31.06,46.87,146,FALSE,FALSE,Sunny
+2/5/2024,26,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,22.37,32.53,80,FALSE,FALSE,Cloudy
+2/5/2024,43,Casual Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.86,20,95,TRUE,FALSE,Sunny
+2/5/2024,23,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,14.38,17.93,195,FALSE,FALSE,Sunny
+2/5/2024,17,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.68,19.93,91,FALSE,FALSE,Rainy
+2/5/2024,19,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.93,13.01,81,FALSE,FALSE,Sunny
+2/5/2024,15,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,4.61,8.87,377,FALSE,FALSE,Sunny
+2/5/2024,32,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,16.3,24.88,0,FALSE,FALSE,Sunny
+2/5/2024,4,Cafe,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,31.92,40.66,126,FALSE,FALSE,Rainy
+2/5/2024,17,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.22,8.74,151,FALSE,FALSE,Sunny
+2/5/2024,50,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.95,1.78,759,TRUE,FALSE,Rainy
+2/5/2024,38,Fine Dining,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,6.02,6.07,651,TRUE,FALSE,Sunny
+2/5/2024,23,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,19.28,27.43,37,FALSE,FALSE,Sunny
+2/5/2024,48,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.09,8.7,686,TRUE,FALSE,Cloudy
+2/5/2024,8,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.12,12.63,348,FALSE,FALSE,Rainy
+2/5/2024,41,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,30.17,37.11,120,FALSE,FALSE,Sunny
+2/5/2024,44,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,1.87,1.92,953,TRUE,TRUE,Sunny
+2/5/2024,16,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.83,2.83,366,FALSE,FALSE,Cloudy
+2/6/2024,23,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,5.03,8.08,217,FALSE,FALSE,Sunny
+2/6/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.56,24.64,114,FALSE,FALSE,Cloudy
+2/6/2024,2,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.77,2.63,136,FALSE,FALSE,Rainy
+2/6/2024,30,Cafe,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,8.08,10.5,65,FALSE,FALSE,Sunny
+2/6/2024,33,Cafe,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.61,3.94,515,FALSE,FALSE,Sunny
+2/6/2024,22,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.71,2.33,430,FALSE,TRUE,Rainy
+2/6/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.15,27.96,164,FALSE,FALSE,Sunny
+2/6/2024,34,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,3.13,3.67,253,FALSE,FALSE,Cloudy
+2/6/2024,26,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.76,4.91,358,TRUE,FALSE,Rainy
+2/6/2024,1,Food Stall,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,6.23,7.85,265,FALSE,FALSE,Cloudy
+2/6/2024,32,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,41.11,49.54,183,FALSE,FALSE,Cloudy
+2/6/2024,44,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.69,9.42,453,FALSE,FALSE,Cloudy
+2/6/2024,49,Kopitiam,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.47,9.24,64,FALSE,FALSE,Sunny
+2/6/2024,17,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,2.2,2.88,282,FALSE,FALSE,Rainy
+2/6/2024,21,Casual Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,3.16,4.93,487,FALSE,FALSE,Sunny
+2/6/2024,2,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,12.94,30.27,64,FALSE,FALSE,Sunny
+2/6/2024,19,Casual Dining,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,3.01,3.15,737,TRUE,FALSE,Rainy
+2/6/2024,36,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,17.72,29.61,43,FALSE,FALSE,Cloudy
+2/6/2024,29,Food Stall,Chicken Rice,Dinner,"chicken, rice, ginger, garlic, chili sauce, cucumber",4,8.56,9.65,453,TRUE,FALSE,Cloudy
+2/6/2024,42,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,10.72,16.78,165,FALSE,FALSE,Sunny
+2/6/2024,28,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,40.33,63.84,127,FALSE,FALSE,Rainy
+2/6/2024,30,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,37.18,52.51,121,FALSE,FALSE,Sunny
+2/6/2024,4,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.74,9.09,252,FALSE,FALSE,Sunny
+2/6/2024,17,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.29,5.1,502,TRUE,FALSE,Sunny
+2/6/2024,49,Kopitiam,Char Kway Teow,Lunch,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,13.29,13.31,342,TRUE,FALSE,Cloudy
+2/7/2024,6,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,18.77,26.56,6,FALSE,FALSE,Cloudy
+2/7/2024,18,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.91,2.51,386,FALSE,FALSE,Sunny
+2/7/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.44,21.05,140,FALSE,FALSE,Rainy
+2/7/2024,38,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,10.96,14.23,619,FALSE,TRUE,Sunny
+2/7/2024,6,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,40.04,69.93,0,FALSE,FALSE,Sunny
+2/7/2024,27,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.94,2.59,220,FALSE,FALSE,Sunny
+2/7/2024,33,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,10.17,12.4,269,FALSE,FALSE,Rainy
+2/7/2024,36,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.95,2.85,304,FALSE,FALSE,Rainy
+2/7/2024,39,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.23,11.31,142,FALSE,FALSE,Cloudy
+2/7/2024,33,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,10.48,11.71,473,FALSE,FALSE,Rainy
+2/7/2024,30,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,14.85,20.39,52,FALSE,FALSE,Rainy
+2/7/2024,28,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,39.05,68.79,160,FALSE,FALSE,Rainy
+2/7/2024,5,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,28.92,42.76,61,FALSE,FALSE,Cloudy
+2/7/2024,8,Casual Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,9.46,22.99,18,FALSE,FALSE,Cloudy
+2/7/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,16.61,26.82,195,FALSE,FALSE,Sunny
+2/7/2024,11,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.19,6.55,604,TRUE,FALSE,Sunny
+2/7/2024,30,Cafe,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,9.07,10.72,298,FALSE,FALSE,Sunny
+2/7/2024,9,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.89,22.54,109,FALSE,FALSE,Rainy
+2/7/2024,20,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,28.25,52.32,0,FALSE,FALSE,Cloudy
+2/7/2024,30,Cafe,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,8.53,9.68,176,FALSE,FALSE,Sunny
+2/7/2024,21,Casual Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,21.85,50.38,109,FALSE,FALSE,Sunny
+2/7/2024,27,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.88,2.97,155,FALSE,FALSE,Sunny
+2/7/2024,15,Food Stall,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,18.99,31.58,253,FALSE,FALSE,Sunny
+2/7/2024,47,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.2,8.01,147,FALSE,FALSE,Sunny
+2/7/2024,25,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,40.15,62.94,92,FALSE,FALSE,Rainy
+2/7/2024,18,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,2,2.56,363,FALSE,FALSE,Sunny
+2/7/2024,32,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,41.62,44.26,227,TRUE,FALSE,Sunny
+2/7/2024,12,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,14.9,18.5,0,FALSE,FALSE,Cloudy
+2/7/2024,28,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,38.13,60.19,0,FALSE,FALSE,Rainy
+2/7/2024,42,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,12.47,15.69,287,FALSE,FALSE,Cloudy
+2/7/2024,5,Cafe,Iced Lemon Tea,Breakfast,"black tea, lemon, sugar syrup",1.2,3.65,5.6,309,FALSE,FALSE,Sunny
+2/7/2024,17,Food Stall,Laksa,Lunch,"rice noodles, fish broth, tamarind, shrimp paste, cucumber, mint",4.5,10.73,12.37,251,FALSE,FALSE,Sunny
+2/7/2024,42,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,46.81,64,0,FALSE,FALSE,Rainy
+2/7/2024,36,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.67,1.42,584,TRUE,FALSE,Sunny
+2/8/2024,3,Cafe,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,8.47,7.79,132,FALSE,FALSE,Sunny
+2/8/2024,47,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,1.97,1.63,643,TRUE,FALSE,Rainy
+2/8/2024,16,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.61,2.41,333,FALSE,FALSE,Sunny
+2/8/2024,9,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,11.94,19.96,2,FALSE,FALSE,Sunny
+2/8/2024,49,Kopitiam,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.69,8.23,162,FALSE,FALSE,Cloudy
+2/8/2024,23,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,38.66,74.45,52,FALSE,FALSE,Sunny
+2/8/2024,34,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.42,11.12,666,TRUE,FALSE,Sunny
+2/8/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,18.32,27.28,132,FALSE,FALSE,Rainy
+2/8/2024,48,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.15,8.41,408,FALSE,FALSE,Sunny
+2/8/2024,20,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,25.22,46.29,70,FALSE,FALSE,Sunny
+2/8/2024,36,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.94,1.75,561,TRUE,FALSE,Cloudy
+2/8/2024,28,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,16.06,32.13,98,FALSE,FALSE,Cloudy
+2/8/2024,12,Cafe,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,27.34,39.19,131,FALSE,FALSE,Cloudy
+2/8/2024,3,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,10.37,11.57,462,FALSE,FALSE,Rainy
+2/8/2024,33,Cafe,Teh Tarik,Dinner,"black tea, condensed milk, evaporated milk",0.9,3.07,3.61,444,FALSE,FALSE,Sunny
+2/8/2024,9,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,7.52,11.94,419,FALSE,FALSE,Rainy
+2/8/2024,20,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,4.14,5.88,201,FALSE,FALSE,Cloudy
+2/8/2024,23,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,40.52,50.74,147,FALSE,FALSE,Cloudy
+2/8/2024,13,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.69,9.61,276,FALSE,FALSE,Cloudy
+2/8/2024,6,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,40.88,31.23,393,TRUE,FALSE,Rainy
+2/8/2024,50,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.92,2.63,214,FALSE,FALSE,Rainy
+2/8/2024,38,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,48.75,82.92,0,FALSE,FALSE,Sunny
+2/8/2024,35,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.61,7.16,366,FALSE,TRUE,Sunny
+2/8/2024,35,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.35,7.52,399,FALSE,FALSE,Sunny
+2/8/2024,46,Casual Dining,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,5.79,5.6,382,TRUE,FALSE,Sunny
+2/8/2024,43,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,25.36,39.61,147,FALSE,FALSE,Rainy
+2/8/2024,32,Fine Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,37.24,57.15,130,FALSE,FALSE,Cloudy
+2/8/2024,32,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,5.01,8.33,312,FALSE,FALSE,Sunny
+2/8/2024,14,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,5.38,11.13,226,FALSE,FALSE,Cloudy
+2/8/2024,28,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,50,72.38,0,FALSE,FALSE,Sunny
+2/8/2024,31,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.87,1.81,1093,TRUE,FALSE,Sunny
+2/9/2024,37,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.52,7.05,88,FALSE,FALSE,Rainy
+2/9/2024,14,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.23,8.25,539,FALSE,TRUE,Rainy
+2/9/2024,26,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.9,10.95,208,FALSE,FALSE,Sunny
+2/9/2024,26,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6,9.01,293,FALSE,TRUE,Rainy
+2/9/2024,26,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,18.88,34.1,97,FALSE,FALSE,Rainy
+2/9/2024,33,Cafe,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,23.85,39.45,200,FALSE,FALSE,Cloudy
+2/9/2024,25,Fine Dining,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,36.67,55.31,236,FALSE,FALSE,Sunny
+2/9/2024,38,Fine Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,17.04,27.66,14,FALSE,FALSE,Sunny
+2/9/2024,2,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.57,2.19,382,FALSE,FALSE,Sunny
+2/9/2024,18,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.99,2.29,371,FALSE,FALSE,Sunny
+2/9/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.82,27.05,18,FALSE,FALSE,Cloudy
+2/9/2024,29,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.29,8.84,226,FALSE,FALSE,Sunny
+2/9/2024,9,Casual Dining,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.66,4.56,313,FALSE,FALSE,Cloudy
+2/9/2024,26,Food Stall,Beef Rendang,Lunch,"beef, coconut milk, galangal, lemongrass, spices, chili",9,15.92,28.36,186,FALSE,FALSE,Rainy
+2/9/2024,39,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,26.28,55.35,14,FALSE,FALSE,Sunny
+2/9/2024,42,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,54.49,64.95,66,TRUE,FALSE,Rainy
+2/9/2024,7,Casual Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,26.28,48.46,3,FALSE,FALSE,Sunny
+2/9/2024,3,Cafe,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,4.67,4.89,166,FALSE,FALSE,Sunny
+2/9/2024,10,Fine Dining,Nasi Lemak,Breakfast,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,9.97,12.59,467,TRUE,FALSE,Rainy
+2/9/2024,23,Fine Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,44.19,55.83,197,FALSE,FALSE,Cloudy
+2/9/2024,18,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,14.43,30.04,54,FALSE,FALSE,Rainy
+2/9/2024,6,Fine Dining,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,46.39,75.96,96,FALSE,FALSE,Sunny
+2/10/2024,40,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.13,2.87,670,FALSE,FALSE,Sunny
+2/10/2024,38,Fine Dining,Iced Lemon Tea,Lunch,"black tea, lemon, sugar syrup",1.2,6.45,7.73,370,FALSE,FALSE,Cloudy
+2/10/2024,5,Cafe,Spaghetti Carbonara,Dinner,"spaghetti, eggs, cheese, beef bacon, black pepper",9,28.52,47.48,0,FALSE,FALSE,Sunny
+2/10/2024,41,Cafe,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12.2,16.59,97,FALSE,FALSE,Sunny
+2/10/2024,39,Casual Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,9.49,19.66,171,FALSE,FALSE,Sunny
+2/10/2024,3,Cafe,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,29.13,47.65,21,FALSE,FALSE,Rainy
+2/10/2024,22,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.55,2.54,743,FALSE,FALSE,Sunny
+2/10/2024,36,Food Stall,Roti Canai,Breakfast,"flour, ghee, egg, water, curry",0.8,1.99,1.9,824,TRUE,FALSE,Cloudy
+2/10/2024,8,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.55,10.83,555,FALSE,FALSE,Cloudy
+2/10/2024,28,Fine Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,40.59,56.19,363,FALSE,FALSE,Sunny
+2/10/2024,31,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,2.21,2.48,727,FALSE,FALSE,Sunny
+2/10/2024,16,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,13.98,15.89,280,TRUE,FALSE,Sunny
+2/10/2024,6,Fine Dining,Mushroom Soup,Lunch,"mushrooms, cream, onion, garlic, vegetable broth",3.5,17.96,27.17,32,FALSE,FALSE,Rainy
+2/10/2024,29,Food Stall,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,3.96,5.4,314,FALSE,FALSE,Sunny
+2/10/2024,43,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,8.09,13.98,528,FALSE,FALSE,Rainy
+2/10/2024,36,Food Stall,Roti Canai,Dinner,"flour, ghee, egg, water, curry",0.8,1.85,2.54,307,FALSE,FALSE,Cloudy
+2/10/2024,14,Food Stall,Teh Tarik,Breakfast,"black tea, condensed milk, evaporated milk",0.9,1.86,3.01,741,FALSE,FALSE,Sunny
+2/10/2024,7,Casual Dining,Cendol,Lunch,"rice flour jelly, coconut milk, palm sugar, red beans",2,6.07,11.08,228,FALSE,TRUE,Sunny
+2/10/2024,35,Food Stall,Cendol,Dinner,"rice flour jelly, coconut milk, palm sugar, red beans",2,4.54,7.08,209,FALSE,TRUE,Cloudy
+2/10/2024,9,Casual Dining,Beef Rendang,Dinner,"beef, coconut milk, galangal, lemongrass, spices, chili",9,23.57,28.92,249,TRUE,FALSE,Cloudy
+2/10/2024,22,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.26,26.21,109,FALSE,FALSE,Cloudy
+2/10/2024,47,Food Stall,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,6.67,7.34,545,FALSE,FALSE,Cloudy
+2/10/2024,27,Food Stall,Tandoori Chicken,Dinner,"chicken, yogurt, tandoori masala, ginger, garlic",7,15.48,26.99,145,FALSE,FALSE,Sunny
+2/10/2024,21,Casual Dining,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,9.41,10.87,459,FALSE,FALSE,Cloudy
+2/10/2024,43,Casual Dining,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,10.01,12.95,129,TRUE,FALSE,Sunny
+2/10/2024,46,Casual Dining,Chicken Chop,Dinner,"chicken thigh, black pepper sauce, fries, coleslaw",8,28.12,50.28,106,FALSE,FALSE,Sunny
+2/10/2024,25,Fine Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,6.31,7.07,509,FALSE,FALSE,Sunny
+2/10/2024,41,Cafe,Kaya Toast Set,Breakfast,"white bread, kaya, butter, soft-boiled eggs",2.8,10.18,10.96,448,FALSE,FALSE,Cloudy
+2/10/2024,33,Cafe,Mushroom Soup,Dinner,"mushrooms, cream, onion, garlic, vegetable broth",3.5,12.96,12.98,61,TRUE,FALSE,Sunny
+2/10/2024,8,Casual Dining,Chicken Chop,Lunch,"chicken thigh, black pepper sauce, fries, coleslaw",8,23.57,47.01,0,FALSE,FALSE,Rainy
+2/10/2024,28,Fine Dining,Nasi Lemak,Lunch,"rice, coconut milk, sambal, anchovies, egg, peanuts",2.5,14.65,17.61,345,FALSE,FALSE,Rainy
+2/10/2024,32,Fine Dining,Spaghetti Carbonara,Lunch,"spaghetti, eggs, cheese, beef bacon, black pepper",9,36.52,48.23,350,TRUE,FALSE,Cloudy
+2/10/2024,21,Casual Dining,Iced Lemon Tea,Dinner,"black tea, lemon, sugar syrup",1.2,3.67,4.78,418,FALSE,FALSE,Sunny
+2/10/2024,17,Food Stall,Teh Tarik,Lunch,"black tea, condensed milk, evaporated milk",0.9,1.78,2.83,617,FALSE,FALSE,Cloudy
+2/10/2024,19,Casual Dining,Char Kway Teow,Dinner,"flat rice noodles, prawns, cockles, bean sprouts, chives, soy sauce",5,17.23,23.9,174,FALSE,FALSE,Sunny

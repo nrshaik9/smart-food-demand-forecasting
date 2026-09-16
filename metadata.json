@@ -1,0 +1,6 @@
+{
+  "name": "Smart Food Demand Forecasting System",
+  "description": "AI-based smart food demand forecasting and preparation decision-support system for canteens, mess, and food services with predictive modeling and food waste analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

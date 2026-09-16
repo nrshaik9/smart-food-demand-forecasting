@@ -1,0 +1,131 @@
+{
+  "best_model_name": "HistGradientBoosting",
+  "metrics_report": {
+    "Baseline (Median)": {
+      "MAE": 179.3,
+      "RMSE": 235.55,
+      "R2": -0.011
+    },
+    "Linear Regression (Ridge)": {
+      "MAE": 98.71,
+      "RMSE": 127.64,
+      "R2": 0.7031
+    },
+    "Random Forest Regressor": {
+      "MAE": 85.6,
+      "RMSE": 114.41,
+      "R2": 0.7615
+    },
+    "HistGradientBoosting": {
+      "MAE": 78.97,
+      "RMSE": 105.78,
+      "R2": 0.7961
+    }
+  },
+  "feature_importances": [
+    {
+      "feature": "price_diff",
+      "importance": 0.1588
+    },
+    {
+      "feature": "unit_margin_pct",
+      "importance": 0.0764
+    },
+    {
+      "feature": "has_promotion",
+      "importance": 0.0703
+    },
+    {
+      "feature": "day_of_week",
+      "importance": 0.0569
+    },
+    {
+      "feature": "dish_rolling_mean_7",
+      "importance": 0.0427
+    },
+    {
+      "feature": "meal_type",
+      "importance": 0.0422
+    },
+    {
+      "feature": "restaurant_type",
+      "importance": 0.0297
+    },
+    {
+      "feature": "unit_margin",
+      "importance": 0.0249
+    },
+    {
+      "feature": "menu_item_name",
+      "importance": 0.0224
+    },
+    {
+      "feature": "price_ratio",
+      "importance": 0.0222
+    },
+    {
+      "feature": "dish_lag_1",
+      "importance": 0.0157
+    },
+    {
+      "feature": "dish_rolling_mean_3",
+      "importance": 0.0137
+    },
+    {
+      "feature": "special_event",
+      "importance": 0.0091
+    },
+    {
+      "feature": "observed_market_price",
+      "importance": 0.0075
+    },
+    {
+      "feature": "weather_condition",
+      "importance": 0.0044
+    }
+  ],
+  "train_samples": 877,
+  "test_samples": 220,
+  "train_dates": [
+    "2024-01-01",
+    "2024-02-03"
+  ],
+  "test_dates": [
+    "2024-02-03",
+    "2024-02-10"
+  ],
+  "total_dishes": 14,
+  "dish_names": [
+    "Cendol",
+    "Kaya Toast Set",
+    "Chicken Chop",
+    "Spaghetti Carbonara",
+    "Teh Tarik",
+    "Iced Lemon Tea",
+    "Chicken Rice",
+    "Char Kway Teow",
+    "Nasi Lemak",
+    "Tandoori Chicken",
+    "Roti Canai",
+    "Beef Rendang",
+    "Mushroom Soup",
+    "Laksa"
+  ],
+  "restaurant_types": [
+    "Food Stall",
+    "Kopitiam",
+    "Casual Dining",
+    "Fine Dining",
+    "Cafe"
+  ],
+  "meal_types": [
+    "Lunch",
+    "Breakfast",
+    "Dinner"
+  ],
+  "weather_conditions": [
+    "Sunny",
+    "Rainy",
+    "Cloudy"
+  ]
+}
